@@ -10,11 +10,11 @@
 		</data>
 		<key>DTFL.storyboardc/CameraVC.nib</key>
 		<data>
-		wrKiN/0YBWBhKa6a8jseuH+pEuM=
+		0tvBeVK2Epi3MjzA1l6hGRXPAPQ=
 		</data>
 		<key>DTFL.storyboardc/DTFLVC.nib</key>
 		<data>
-		90Tm/e/RIX02oQeb+KWIXDe64ww=
+		D6x2QMyJRgKdigUfVrTgwshwjPw=
 		</data>
 		<key>DTFL.storyboardc/Info.plist</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>DTFL.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		JsMdWJEH4UybA1teUIrdOl6JeRE=
+		jBsLn2sR9gC3sjqDB7lJNcqw038=
 		</data>
 		<key>DTFL.storyboardc/qpS-Rh-oSW-view-f5M-w0-Auy.nib</key>
 		<data>
-		yQZRv1MgylG58I5swuboj3M/cOk=
+		/8pnk3YVIXJEUsv3TqVFmJWKUng=
 		</data>
 		<key>Headers/DTFL-Swift.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kub6Mhk+zsLMS2eYO6mOaupKiLw=
+		oYVYI5iCj8hNjkagVB8o7SNKMuo=
 		</data>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -94,14 +94,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dn0rqkuHoa6Pj0YJ5ycevO6NmaPPMG/ycIZvJVxOK7w=
+			xcIzACxa9Tf3kZEFgpsRwh1bmG7vUAQTi3MfUEpvhpo=
 			</data>
 		</dict>
 		<key>DTFL.storyboardc/DTFLVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZnBcxUMv1GXjxBDkUcFiicoV+C61CAiEqmC368gjrHg=
+			0Up7iyxZ19CCzfyvQYY+PWDkVwpjYadMiYWu9hgwzdM=
 			</data>
 		</dict>
 		<key>DTFL.storyboardc/Info.plist</key>
@@ -115,14 +115,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZRIul4dlCNV7O24DAX8KgiGyzq9Q/sXyDN0PKvIi6JU=
+			7O5CZ9Q71pWTMmwuTa9ZacxKyoQKvJcnL+4wDnZPsEw=
 			</data>
 		</dict>
 		<key>DTFL.storyboardc/qpS-Rh-oSW-view-f5M-w0-Auy.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zg6ixbsMRKo5keK1H8pHLD2uIWReJaEnmxuz1KXmxVA=
+			YLzMe0b8CYm1+GQZQssG/lSu/THWH5CnoFWoxHAZIso=
 			</data>
 		</dict>
 		<key>Headers/DTFL-Swift.h</key>
