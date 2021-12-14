@@ -69,6 +69,9 @@ open class DTFaceConfig {
   public static func start(_ callingVC: UIKit.UIViewController, dtFaceConfig: DTFL.DTFaceConfig, completionHandler: @escaping (DTFL.DTException?, [Swift.String : Any]?) -> Swift.Void)
   @objc override dynamic open func viewDidLoad()
   @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
+  @objc override dynamic open var prefersStatusBarHidden: Swift.Bool {
+    @objc get
+  }
   @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit

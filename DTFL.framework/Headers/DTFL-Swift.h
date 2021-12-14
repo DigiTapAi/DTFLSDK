@@ -216,6 +216,7 @@ SWIFT_CLASS("_TtC4DTFL6DTFLVC")
 @interface DTFLVC : UIViewController
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
+@property (nonatomic, readonly) BOOL prefersStatusBarHidden;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
