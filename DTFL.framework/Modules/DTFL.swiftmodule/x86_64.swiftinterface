@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
-// swift-module-flags: -target x86_64-apple-ios12.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DTFL
+// swift-module-flags: -target x86_64-apple-ios12.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name DTFL
 import AVFoundation
 @_exported import DTFL
 import Foundation
@@ -14,7 +14,17 @@ import Vision
   @objc deinit
 }
 public enum ErrorCode : Swift.Int {
-  case INVALID_INPUT, INIT_NOT_CALLED, USER_CANCELLED, INTERNAL_ERROR, PERMISSION_NOT_GRANTED, SERVER_ERROR, CAPTURE_FAILED, CAMERA_LAUNCH_FAILED, GET_CAMERA_INFO_FAILED, FACE_NOT_DETECTED_USER_CANCELLED, EYES_CLOSED
+  case INVALID_INPUT
+  case INIT_NOT_CALLED
+  case USER_CANCELLED
+  case INTERNAL_ERROR
+  case PERMISSION_NOT_GRANTED
+  case SERVER_ERROR
+  case CAPTURE_FAILED
+  case CAMERA_LAUNCH_FAILED
+  case GET_CAMERA_INFO_FAILED
+  case FACE_NOT_DETECTED_USER_CANCELLED
+  case EYES_CLOSED
   public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
@@ -87,12 +97,3 @@ public enum DTEnvironment : Swift.String {
     get
   }
 }
-extension DTFL.ErrorCode : Swift.Equatable {}
-extension DTFL.ErrorCode : Swift.Hashable {}
-extension DTFL.ErrorCode : Swift.RawRepresentable {}
-extension DTFL.ErrorMessage : Swift.Equatable {}
-extension DTFL.ErrorMessage : Swift.Hashable {}
-extension DTFL.ErrorMessage : Swift.RawRepresentable {}
-extension DTFL.DTEnvironment : Swift.Equatable {}
-extension DTFL.DTEnvironment : Swift.Hashable {}
-extension DTFL.DTEnvironment : Swift.RawRepresentable {}
