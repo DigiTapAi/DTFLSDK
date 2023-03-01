@@ -1,20 +1,24 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
+// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
 // swift-module-flags: -target arm64-apple-ios12.1 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DTFL
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 @_exported import DTFL
 import Foundation
 import QuartzCore
 import Swift
+import SystemConfiguration
 import UIKit
 import Vision
+import _Concurrency
+import _StringProcessing
 @_hasMissingDesignatedInitializers open class DTException : Swift.Error {
   public func getErrorCode() -> Swift.Int?
   public func getErrorMessage() -> Swift.String?
   @objc deinit
 }
 public enum ErrorCode : Swift.Int {
-  case INVALID_INPUT, INIT_NOT_CALLED, USER_CANCELLED, INTERNAL_ERROR, PERMISSION_NOT_GRANTED, SERVER_ERROR, CAPTURE_FAILED, CAMERA_LAUNCH_FAILED, GET_CAMERA_INFO_FAILED, FACE_NOT_DETECTED_USER_CANCELLED, EYES_CLOSED, CAMERA_NOT_FOUND
+  case INVALID_INPUT, INIT_NOT_CALLED, USER_CANCELLED, INTERNAL_ERROR, PERMISSION_NOT_GRANTED, SERVER_ERROR, CAPTURE_FAILED, CAMERA_LAUNCH_FAILED, GET_CAMERA_INFO_FAILED, FACE_NOT_DETECTED_USER_CANCELLED, EYES_CLOSED, CAMERA_NOT_FOUND, MULTIPLE_FACE
   public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
@@ -34,6 +38,7 @@ public enum ErrorMessage : Swift.String {
   case FACE_NOT_DETECTED_USER_CANCELLED
   case EYES_CLOSED
   case CAMERA_NOT_FOUND
+  case MULTIPLE_FACE
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -60,21 +65,23 @@ open class DTFaceConfig {
   public func setMultipleFacesDescription(desc: Swift.String)
   public func setMoveCameraAwayDescription(desc: Swift.String)
   public func setMoveCameraCloserDescription(desc: Swift.String)
+  public func setAllowMultipleFace(allow: Swift.Bool)
+  public func setAllowEyesClosed(allow: Swift.Bool)
   @objc deinit
 }
 @_hasMissingDesignatedInitializers open class DTFLSDK {
   public static func initialize(clientId: Swift.String, clientSecret: Swift.String, environment: DTFL.DTEnvironment) throws
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers open class DTFLVC : UIKit.UIViewController {
-  public static func start(_ callingVC: UIKit.UIViewController, dtFaceConfig: DTFL.DTFaceConfig, completionHandler: @escaping (DTFL.DTException?, [Swift.String : Any]?) -> Swift.Void)
-  @objc override dynamic open func viewDidLoad()
-  @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
-  @objc override dynamic open var prefersStatusBarHidden: Swift.Bool {
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class DTFLVC : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) public static func start(_ callingVC: UIKit.UIViewController, dtFaceConfig: DTFL.DTFaceConfig, completionHandler: @escaping (DTFL.DTException?, [Swift.String : Any]?) -> Swift.Void)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var prefersStatusBarHidden: Swift.Bool {
     @objc get
   }
-  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
 public enum DTEnvironment : Swift.String {

@@ -6,6 +6,6 @@ framework module DTFL {
 }
 
 module DTFL.Swift {
-    header "DTFL-Swift.h"
-    requires objc
+  header "DTFL-Swift.h"
+  requires objc
 }
