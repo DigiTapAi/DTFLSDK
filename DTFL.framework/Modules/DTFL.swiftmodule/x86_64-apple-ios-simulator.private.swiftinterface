@@ -58,15 +58,15 @@ public enum ErrorMessage : Swift.String {
 }
 @_inheritsConvenienceInitializers @objc public class DTFaceConfig : ObjectiveC.NSObject {
   @objc override dynamic public init()
-  public func setFaceCaptureTitle(title: Swift.String)
-  public func setClientRefId(clientRefId: Swift.String)
-  public func setFaceNonLiveDescription(desc: Swift.String)
-  public func setFaceLiveDescription(desc: Swift.String)
-  public func setMultipleFacesDescription(desc: Swift.String)
-  public func setMoveCameraAwayDescription(desc: Swift.String)
-  public func setMoveCameraCloserDescription(desc: Swift.String)
-  public func setAllowMultipleFace(allow: Swift.Bool)
-  public func setAllowEyesClosed(allow: Swift.Bool)
+  @objc public func setFaceCaptureTitle(title: Swift.String)
+  @objc public func setClientRefId(clientRefId: Swift.String)
+  @objc public func setFaceNonLiveDescription(desc: Swift.String)
+  @objc public func setFaceLiveDescription(desc: Swift.String)
+  @objc public func setMultipleFacesDescription(desc: Swift.String)
+  @objc public func setMoveCameraAwayDescription(desc: Swift.String)
+  @objc public func setMoveCameraCloserDescription(desc: Swift.String)
+  @objc public func setAllowMultipleFace(allow: Swift.Bool)
+  @objc public func setAllowEyesClosed(allow: Swift.Bool)
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc public class DTFLSDK : ObjectiveC.NSObject {
