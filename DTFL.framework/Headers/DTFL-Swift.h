@@ -230,6 +230,8 @@ using UInt = size_t;
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import Foundation;
+@import ObjectiveC;
 @import UIKit;
 #endif
 
@@ -252,17 +254,46 @@ using UInt = size_t;
 
 #if defined(__OBJC__)
 
+typedef SWIFT_ENUM(NSInteger, DTEnvironment, open) {
+  DTEnvironmentPRODUCTION = 0,
+  DTEnvironmentUAT = 1,
+  DTEnvironmentSTAGE = 2,
+  DTEnvironmentDEV = 3,
+};
+
+
+SWIFT_CLASS("_TtC4DTFL11DTException")
+@interface DTException : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
 @class NSString;
+
+SWIFT_CLASS("_TtC4DTFL7DTFLSDK")
+@interface DTFLSDK : NSObject
++ (BOOL)initializeWithClientId:(NSString * _Nonnull)clientId clientSecret:(NSString * _Nonnull)clientSecret environment:(enum DTEnvironment)environment error:(NSError * _Nullable * _Nullable)error;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class DTFaceConfig;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC4DTFL6DTFLVC")
 @interface DTFLVC : UIViewController
++ (void)start:(UIViewController * _Nonnull)callingVC dtFaceConfig:(DTFaceConfig * _Nonnull)dtFaceConfig completionHandler:(void (^ _Nonnull)(DTException * _Nullable, NSDictionary<NSString *, id> * _Nullable))completionHandler;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 @property (nonatomic, readonly) BOOL prefersStatusBarHidden;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC4DTFL12DTFaceConfig")
+@interface DTFaceConfig : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 

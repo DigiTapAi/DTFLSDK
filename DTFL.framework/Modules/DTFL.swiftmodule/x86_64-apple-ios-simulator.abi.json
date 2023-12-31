@@ -127,17 +127,47 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DTException",
+                "printedName": "DTFL.DTException",
+                "usr": "c:@M@DTFL@objc(cs)DTException"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@DTFL@objc(cs)DTException(im)init",
+            "mangledName": "$s4DTFL11DTExceptionCACycfc",
+            "moduleName": "DTFL",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
-        "usr": "s:4DTFL11DTExceptionC",
+        "usr": "c:@M@DTFL@objc(cs)DTException",
         "mangledName": "$s4DTFL11DTExceptionC",
         "moduleName": "DTFL",
-        "isOpen": true,
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "ObjC"
         ],
+        "superclassUsr": "c:objc(cs)NSObject",
         "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
         "conformances": [
           {
             "kind": "Conformance",
@@ -145,6 +175,55 @@
             "printedName": "Error",
             "usr": "s:s5ErrorP",
             "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -1789,14 +1868,19 @@
                 "kind": "TypeNominal",
                 "name": "DTFaceConfig",
                 "printedName": "DTFL.DTFaceConfig",
-                "usr": "s:4DTFL12DTFaceConfigC"
+                "usr": "c:@M@DTFL@objc(cs)DTFaceConfig"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:4DTFL12DTFaceConfigCACycfc",
+            "usr": "c:@M@DTFL@objc(cs)DTFaceConfig(im)init",
             "mangledName": "$s4DTFL12DTFaceConfigCACycfc",
             "moduleName": "DTFL",
+            "overriding": true,
+            "objc_name": "init",
             "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
               "AccessControl"
             ],
             "init_kind": "Designated"
@@ -2037,12 +2121,68 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:4DTFL12DTFaceConfigC",
+        "usr": "c:@M@DTFL@objc(cs)DTFaceConfig",
         "mangledName": "$s4DTFL12DTFaceConfigC",
         "moduleName": "DTFL",
-        "isOpen": true,
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
         ]
       },
       {
@@ -2103,31 +2243,114 @@
                 "kind": "TypeNominal",
                 "name": "DTEnvironment",
                 "printedName": "DTFL.DTEnvironment",
-                "usr": "s:4DTFL13DTEnvironmentO"
+                "usr": "c:@M@DTFL@E@DTEnvironment"
               }
             ],
             "declKind": "Func",
-            "usr": "s:4DTFL7DTFLSDKC10initialize8clientId0D6Secret11environmentySS_SSAA13DTEnvironmentOtKFZ",
+            "usr": "c:@M@DTFL@objc(cs)DTFLSDK(cm)initializeWithClientId:clientSecret:environment:error:",
             "mangledName": "$s4DTFL7DTFLSDKC10initialize8clientId0D6Secret11environmentySS_SSAA13DTEnvironmentOtKFZ",
             "moduleName": "DTFL",
             "static": true,
+            "objc_name": "initializeWithClientId:clientSecret:environment:error:",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "throwing": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DTFLSDK",
+                "printedName": "DTFL.DTFLSDK",
+                "usr": "c:@M@DTFL@objc(cs)DTFLSDK"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@DTFL@objc(cs)DTFLSDK(im)init",
+            "mangledName": "$s4DTFL7DTFLSDKCACycfc",
+            "moduleName": "DTFL",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
-        "usr": "s:4DTFL7DTFLSDKC",
+        "usr": "c:@M@DTFL@objc(cs)DTFLSDK",
         "mangledName": "$s4DTFL7DTFLSDKC",
         "moduleName": "DTFL",
-        "isOpen": true,
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "ObjC"
         ],
-        "hasMissingDesignatedInitializers": true
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -2171,7 +2394,7 @@
                 "kind": "TypeNominal",
                 "name": "DTFaceConfig",
                 "printedName": "DTFL.DTFaceConfig",
-                "usr": "s:4DTFL12DTFaceConfigC"
+                "usr": "c:@M@DTFL@objc(cs)DTFaceConfig"
               },
               {
                 "kind": "TypeFunc",
@@ -2197,7 +2420,7 @@
                             "kind": "TypeNominal",
                             "name": "DTException",
                             "printedName": "DTFL.DTException",
-                            "usr": "s:4DTFL11DTExceptionC"
+                            "usr": "c:@M@DTFL@objc(cs)DTException"
                           }
                         ],
                         "usr": "s:Sq"
@@ -2235,14 +2458,15 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:4DTFL6DTFLVCC5start_12dtFaceConfig17completionHandlerySo16UIViewControllerC_AA06DTFaceF0CyAA11DTExceptionCSg_SDySSypGSgtctFZ",
+            "usr": "c:@M@DTFL@objc(cs)DTFLVC(cm)start:dtFaceConfig:completionHandler:",
             "mangledName": "$s4DTFL6DTFLVCC5start_12dtFaceConfig17completionHandlerySo16UIViewControllerC_AA06DTFaceF0CyAA11DTExceptionCSg_SDySSypGSgtctFZ",
             "moduleName": "DTFL",
             "static": true,
             "declAttributes": [
-              "Custom",
               "Final",
+              "Custom",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
@@ -2263,7 +2487,6 @@
             "mangledName": "$s4DTFL6DTFLVCC11viewDidLoadyyF",
             "moduleName": "DTFL",
             "overriding": true,
-            "isOpen": true,
             "objc_name": "viewDidLoad",
             "declAttributes": [
               "Dynamic",
@@ -2297,7 +2520,6 @@
             "mangledName": "$s4DTFL6DTFLVCC14viewWillAppearyySbF",
             "moduleName": "DTFL",
             "overriding": true,
-            "isOpen": true,
             "objc_name": "viewWillAppear:",
             "declAttributes": [
               "Dynamic",
@@ -2325,7 +2547,6 @@
             "mangledName": "$s4DTFL6DTFLVCC22prefersStatusBarHiddenSbvp",
             "moduleName": "DTFL",
             "overriding": true,
-            "isOpen": true,
             "objc_name": "prefersStatusBarHidden",
             "declAttributes": [
               "Dynamic",
@@ -2352,7 +2573,6 @@
                 "mangledName": "$s4DTFL6DTFLVCC22prefersStatusBarHiddenSbvg",
                 "moduleName": "DTFL",
                 "overriding": true,
-                "isOpen": true,
                 "objc_name": "prefersStatusBarHidden",
                 "declAttributes": [
                   "Dynamic",
@@ -2463,7 +2683,6 @@
         "usr": "c:@M@DTFL@objc(cs)DTFLVC",
         "mangledName": "$s4DTFL6DTFLVCC",
         "moduleName": "DTFL",
-        "isOpen": true,
         "declAttributes": [
           "Custom",
           "AccessControl",
@@ -2646,7 +2865,7 @@
                     "kind": "TypeNominal",
                     "name": "DTEnvironment",
                     "printedName": "DTFL.DTEnvironment",
-                    "usr": "s:4DTFL13DTEnvironmentO"
+                    "usr": "c:@M@DTFL@E@DTEnvironment"
                   },
                   {
                     "kind": "TypeNominal",
@@ -2657,7 +2876,7 @@
                         "kind": "TypeNominal",
                         "name": "DTEnvironment",
                         "printedName": "DTFL.DTEnvironment",
-                        "usr": "s:4DTFL13DTEnvironmentO"
+                        "usr": "c:@M@DTFL@E@DTEnvironment"
                       }
                     ]
                   }
@@ -2665,9 +2884,13 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:4DTFL13DTEnvironmentO10PRODUCTIONyA2CmF",
+            "usr": "c:@M@DTFL@E@DTEnvironment@DTEnvironmentPRODUCTION",
             "mangledName": "$s4DTFL13DTEnvironmentO10PRODUCTIONyA2CmF",
-            "moduleName": "DTFL"
+            "moduleName": "DTFL",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 0
           },
           {
             "kind": "Var",
@@ -2683,7 +2906,7 @@
                     "kind": "TypeNominal",
                     "name": "DTEnvironment",
                     "printedName": "DTFL.DTEnvironment",
-                    "usr": "s:4DTFL13DTEnvironmentO"
+                    "usr": "c:@M@DTFL@E@DTEnvironment"
                   },
                   {
                     "kind": "TypeNominal",
@@ -2694,7 +2917,7 @@
                         "kind": "TypeNominal",
                         "name": "DTEnvironment",
                         "printedName": "DTFL.DTEnvironment",
-                        "usr": "s:4DTFL13DTEnvironmentO"
+                        "usr": "c:@M@DTFL@E@DTEnvironment"
                       }
                     ]
                   }
@@ -2702,9 +2925,13 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:4DTFL13DTEnvironmentO3UATyA2CmF",
+            "usr": "c:@M@DTFL@E@DTEnvironment@DTEnvironmentUAT",
             "mangledName": "$s4DTFL13DTEnvironmentO3UATyA2CmF",
-            "moduleName": "DTFL"
+            "moduleName": "DTFL",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 1
           },
           {
             "kind": "Var",
@@ -2720,7 +2947,7 @@
                     "kind": "TypeNominal",
                     "name": "DTEnvironment",
                     "printedName": "DTFL.DTEnvironment",
-                    "usr": "s:4DTFL13DTEnvironmentO"
+                    "usr": "c:@M@DTFL@E@DTEnvironment"
                   },
                   {
                     "kind": "TypeNominal",
@@ -2731,7 +2958,7 @@
                         "kind": "TypeNominal",
                         "name": "DTEnvironment",
                         "printedName": "DTFL.DTEnvironment",
-                        "usr": "s:4DTFL13DTEnvironmentO"
+                        "usr": "c:@M@DTFL@E@DTEnvironment"
                       }
                     ]
                   }
@@ -2739,9 +2966,13 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:4DTFL13DTEnvironmentO5STAGEyA2CmF",
+            "usr": "c:@M@DTFL@E@DTEnvironment@DTEnvironmentSTAGE",
             "mangledName": "$s4DTFL13DTEnvironmentO5STAGEyA2CmF",
-            "moduleName": "DTFL"
+            "moduleName": "DTFL",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 2
           },
           {
             "kind": "Var",
@@ -2757,7 +2988,7 @@
                     "kind": "TypeNominal",
                     "name": "DTEnvironment",
                     "printedName": "DTFL.DTEnvironment",
-                    "usr": "s:4DTFL13DTEnvironmentO"
+                    "usr": "c:@M@DTFL@E@DTEnvironment"
                   },
                   {
                     "kind": "TypeNominal",
@@ -2768,7 +2999,7 @@
                         "kind": "TypeNominal",
                         "name": "DTEnvironment",
                         "printedName": "DTFL.DTEnvironment",
-                        "usr": "s:4DTFL13DTEnvironmentO"
+                        "usr": "c:@M@DTFL@E@DTEnvironment"
                       }
                     ]
                   }
@@ -2776,9 +3007,13 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:4DTFL13DTEnvironmentO3DEVyA2CmF",
+            "usr": "c:@M@DTFL@E@DTEnvironment@DTEnvironmentDEV",
             "mangledName": "$s4DTFL13DTEnvironmentO3DEVyA2CmF",
-            "moduleName": "DTFL"
+            "moduleName": "DTFL",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 3
           },
           {
             "kind": "Constructor",
@@ -2794,7 +3029,7 @@
                     "kind": "TypeNominal",
                     "name": "DTEnvironment",
                     "printedName": "DTFL.DTEnvironment",
-                    "usr": "s:4DTFL13DTEnvironmentO"
+                    "usr": "c:@M@DTFL@E@DTEnvironment"
                   }
                 ],
                 "usr": "s:Sq"
@@ -2810,7 +3045,10 @@
             "usr": "s:4DTFL13DTEnvironmentO8rawValueACSgSS_tcfc",
             "mangledName": "$s4DTFL13DTEnvironmentO8rawValueACSgSS_tcfc",
             "moduleName": "DTFL",
-            "implicit": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
             "init_kind": "Designated"
           },
           {
@@ -2829,7 +3067,10 @@
             "usr": "s:4DTFL13DTEnvironmentO8rawValueSSvp",
             "mangledName": "$s4DTFL13DTEnvironmentO8rawValueSSvp",
             "moduleName": "DTFL",
-            "implicit": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
             "accessors": [
               {
                 "kind": "Accessor",
@@ -2847,21 +3088,22 @@
                 "usr": "s:4DTFL13DTEnvironmentO8rawValueSSvg",
                 "mangledName": "$s4DTFL13DTEnvironmentO8rawValueSSvg",
                 "moduleName": "DTFL",
-                "implicit": true,
+                "isFromExtension": true,
                 "accessorKind": "get"
               }
             ]
           }
         ],
         "declKind": "Enum",
-        "usr": "s:4DTFL13DTEnvironmentO",
+        "usr": "c:@M@DTFL@E@DTEnvironment",
         "mangledName": "$s4DTFL13DTEnvironmentO",
         "moduleName": "DTFL",
         "declAttributes": [
           "AccessControl",
+          "ObjC",
           "RawDocComment"
         ],
-        "enumRawTypeName": "String",
+        "enumRawTypeName": "Int",
         "conformances": [
           {
             "kind": "Conformance",
@@ -2968,456 +3210,463 @@
   "ConstValues": [
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 130,
+      "length": 11,
+      "value": "\"DTFL.DTException\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 544,
+      "offset": 562,
       "length": 4,
       "value": "1001"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 554,
+      "offset": 572,
       "length": 15,
       "value": "1002"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 575,
+      "offset": 593,
       "length": 14,
       "value": "1003"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 595,
+      "offset": 613,
       "length": 14,
       "value": "1004"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 615,
+      "offset": 633,
       "length": 22,
       "value": "1005"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 643,
+      "offset": 661,
       "length": 12,
       "value": "1006"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 661,
+      "offset": 679,
       "length": 14,
       "value": "1007"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 681,
+      "offset": 699,
       "length": 20,
       "value": "1008"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 707,
+      "offset": 725,
       "length": 22,
       "value": "1009"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 735,
+      "offset": 753,
       "length": 32,
       "value": "1010"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 773,
+      "offset": 791,
       "length": 11,
       "value": "1011"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 790,
+      "offset": 808,
       "length": 16,
       "value": "1012"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 812,
+      "offset": 830,
       "length": 13,
       "value": "1013"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 544,
+      "offset": 562,
       "length": 4,
       "value": "1001"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 554,
+      "offset": 572,
       "length": 15,
       "value": "1002"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 575,
+      "offset": 593,
       "length": 14,
       "value": "1003"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 595,
+      "offset": 613,
       "length": 14,
       "value": "1004"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 615,
+      "offset": 633,
       "length": 22,
       "value": "1005"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 643,
+      "offset": 661,
       "length": 12,
       "value": "1006"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 661,
+      "offset": 679,
       "length": 14,
       "value": "1007"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 681,
+      "offset": 699,
       "length": 20,
       "value": "1008"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 707,
+      "offset": 725,
       "length": 22,
       "value": "1009"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 735,
+      "offset": 753,
       "length": 32,
       "value": "1010"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 773,
+      "offset": 791,
       "length": 11,
       "value": "1011"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 790,
+      "offset": 808,
       "length": 16,
       "value": "1012"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 812,
+      "offset": 830,
       "length": 13,
       "value": "1013"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 544,
+      "offset": 562,
       "length": 4,
       "value": "1001"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 554,
+      "offset": 572,
       "length": 15,
       "value": "1002"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 575,
+      "offset": 593,
       "length": 14,
       "value": "1003"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 595,
+      "offset": 613,
       "length": 14,
       "value": "1004"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 615,
+      "offset": 633,
       "length": 22,
       "value": "1005"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 643,
+      "offset": 661,
       "length": 12,
       "value": "1006"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 661,
+      "offset": 679,
       "length": 14,
       "value": "1007"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 681,
+      "offset": 699,
       "length": 20,
       "value": "1008"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 707,
+      "offset": 725,
       "length": 22,
       "value": "1009"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 735,
+      "offset": 753,
       "length": 32,
       "value": "1010"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 773,
+      "offset": 791,
       "length": 11,
       "value": "1011"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 790,
+      "offset": 808,
       "length": 16,
       "value": "1012"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 812,
+      "offset": 830,
       "length": 13,
       "value": "1013"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 888,
+      "offset": 906,
       "length": 15,
       "value": "\"Invalid Input\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 931,
+      "offset": 949,
       "length": 22,
       "value": "\"Init not called yet.\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 980,
+      "offset": 998,
       "length": 16,
       "value": "\"User Cancelled\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1023,
+      "offset": 1041,
       "length": 37,
       "value": "\"Internal Error, Try after some time\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1095,
+      "offset": 1113,
       "length": 32,
       "value": "\"Permission not granted by user\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1152,
+      "offset": 1170,
       "length": 35,
       "value": "\"Server Error, Try after some time\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1214,
+      "offset": 1232,
       "length": 27,
       "value": "\"Capture failed, try again\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1274,
+      "offset": 1292,
       "length": 36,
       "value": "\"Error in opening camera. try again\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1345,
+      "offset": 1363,
       "length": 39,
       "value": "\"Getting camera info failed. try again\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1429,
+      "offset": 1447,
       "length": 35,
       "value": "\"Face not detected. User Cancelled\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1488,
+      "offset": 1506,
       "length": 31,
       "value": "\"Eyes closed, please try again\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1548,
+      "offset": 1566,
       "length": 24,
       "value": "\"Front Camera not found\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1598,
+      "offset": 1616,
       "length": 42,
       "value": "\"Multiple face detected, please try again\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 888,
+      "offset": 906,
       "length": 15,
       "value": "\"Invalid Input\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 931,
+      "offset": 949,
       "length": 22,
       "value": "\"Init not called yet.\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 980,
+      "offset": 998,
       "length": 16,
       "value": "\"User Cancelled\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1023,
+      "offset": 1041,
       "length": 37,
       "value": "\"Internal Error, Try after some time\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1095,
+      "offset": 1113,
       "length": 32,
       "value": "\"Permission not granted by user\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1152,
+      "offset": 1170,
       "length": 35,
       "value": "\"Server Error, Try after some time\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1214,
+      "offset": 1232,
       "length": 27,
       "value": "\"Capture failed, try again\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1274,
+      "offset": 1292,
       "length": 36,
       "value": "\"Error in opening camera. try again\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1345,
+      "offset": 1363,
       "length": 39,
       "value": "\"Getting camera info failed. try again\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1429,
+      "offset": 1447,
       "length": 35,
       "value": "\"Face not detected. User Cancelled\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1488,
+      "offset": 1506,
       "length": 31,
       "value": "\"Eyes closed, please try again\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1548,
+      "offset": 1566,
       "length": 24,
       "value": "\"Front Camera not found\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
-      "offset": 1598,
+      "offset": 1616,
       "length": 42,
       "value": "\"Multiple face detected, please try again\""
     },
@@ -3795,70 +4044,70 @@
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Config\/DTFaceConfig.swift",
       "kind": "StringLiteral",
-      "offset": 210,
+      "offset": 228,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Config\/DTFaceConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 606,
+      "offset": 624,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Config\/DTFaceConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 638,
+      "offset": 656,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
-      "offset": 251,
+      "offset": 259,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
-      "offset": 281,
+      "offset": 289,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
-      "offset": 314,
+      "offset": 322,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
-      "offset": 351,
+      "offset": 359,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 384,
+      "offset": 392,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
-      "offset": 795,
+      "offset": 803,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
-      "offset": 841,
+      "offset": 849,
       "length": 2,
       "value": "\"\""
     },
@@ -4099,6 +4348,27 @@
       "offset": 2034,
       "length": 14,
       "value": "\"Face Capture\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2143,
+      "length": 3,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2156,
+      "length": 5,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2171,
+      "length": 3,
+      "value": "3"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",

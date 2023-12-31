@@ -12,7 +12,7 @@ import UIKit
 import Vision
 import _Concurrency
 import _StringProcessing
-@_hasMissingDesignatedInitializers open class DTException : Swift.Error {
+@_hasMissingDesignatedInitializers @objc public class DTException : ObjectiveC.NSObject, Swift.Error {
   public func getErrorCode() -> Swift.Int?
   public func getErrorMessage() -> Swift.String?
   @objc deinit
@@ -56,8 +56,8 @@ public enum ErrorMessage : Swift.String {
   public func setTriggerType(type: Swift.String)
   @objc deinit
 }
-open class DTFaceConfig {
-  public init()
+@_inheritsConvenienceInitializers @objc public class DTFaceConfig : ObjectiveC.NSObject {
+  @objc override dynamic public init()
   public func setFaceCaptureTitle(title: Swift.String)
   public func setClientRefId(clientRefId: Swift.String)
   public func setFaceNonLiveDescription(desc: Swift.String)
@@ -69,12 +69,13 @@ open class DTFaceConfig {
   public func setAllowEyesClosed(allow: Swift.Bool)
   @objc deinit
 }
-@_hasMissingDesignatedInitializers open class DTFLSDK {
-  public static func initialize(clientId: Swift.String, clientSecret: Swift.String, environment: DTFL.DTEnvironment) throws
+@_inheritsConvenienceInitializers @objc public class DTFLSDK : ObjectiveC.NSObject {
+  @objc public static func initialize(clientId: Swift.String, clientSecret: Swift.String, environment: DTFL.DTEnvironment) throws
+  @objc override dynamic public init()
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class DTFLVC : UIKit.UIViewController {
-  @_Concurrency.MainActor(unsafe) public static func start(_ callingVC: UIKit.UIViewController, dtFaceConfig: DTFL.DTFaceConfig, completionHandler: @escaping (DTFL.DTException?, [Swift.String : Any]?) -> Swift.Void)
+@_inheritsConvenienceInitializers @objc @_Concurrency.MainActor(unsafe) public class DTFLVC : UIKit.UIViewController {
+  @objc @_Concurrency.MainActor(unsafe) public static func start(_ callingVC: UIKit.UIViewController, dtFaceConfig: DTFL.DTFaceConfig, completionHandler: @escaping (DTFL.DTException?, [Swift.String : Any]?) -> Swift.Void)
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic open var prefersStatusBarHidden: Swift.Bool {
@@ -84,14 +85,16 @@ open class DTFaceConfig {
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-public enum DTEnvironment : Swift.String {
+@objc public enum DTEnvironment : Swift.Int {
   case PRODUCTION
   case UAT
   case STAGE
   case DEV
-  public init?(rawValue: Swift.String)
+}
+extension DTFL.DTEnvironment : Swift.RawRepresentable {
   public typealias RawValue = Swift.String
-  public var rawValue: Swift.String {
+  public init?(rawValue: DTFL.DTEnvironment.RawValue)
+  public var rawValue: DTFL.DTEnvironment.RawValue {
     get
   }
 }
@@ -103,4 +106,3 @@ extension DTFL.ErrorMessage : Swift.Hashable {}
 extension DTFL.ErrorMessage : Swift.RawRepresentable {}
 extension DTFL.DTEnvironment : Swift.Equatable {}
 extension DTFL.DTEnvironment : Swift.Hashable {}
-extension DTFL.DTEnvironment : Swift.RawRepresentable {}
