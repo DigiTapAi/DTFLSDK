@@ -261,14 +261,17 @@ typedef SWIFT_ENUM(NSInteger, DTEnvironment, open) {
   DTEnvironmentDEV = 3,
 };
 
+@class NSNumber;
+@class NSString;
 
 SWIFT_CLASS("_TtC4DTFL11DTException")
 @interface DTException : NSObject
+- (NSNumber * _Nullable)getErrorCode SWIFT_WARN_UNUSED_RESULT;
+- (NSString * _Nullable)getErrorMessage SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
-@class NSString;
 
 SWIFT_CLASS("_TtC4DTFL7DTFLSDK")
 @interface DTFLSDK : NSObject
@@ -294,6 +297,15 @@ SWIFT_CLASS("_TtC4DTFL6DTFLVC")
 SWIFT_CLASS("_TtC4DTFL12DTFaceConfig")
 @interface DTFaceConfig : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (void)setFaceCaptureTitle:(NSString * _Nonnull)title;
+- (void)setClientRefId:(NSString * _Nonnull)clientRefId;
+- (void)setFaceNonLiveDescription:(NSString * _Nonnull)desc;
+- (void)setFaceLiveDescription:(NSString * _Nonnull)desc;
+- (void)setMultipleFacesDescription:(NSString * _Nonnull)desc;
+- (void)setMoveCameraAwayDescription:(NSString * _Nonnull)desc;
+- (void)setMoveCameraCloserDescription:(NSString * _Nonnull)desc;
+- (void)setAllowMultipleFace:(BOOL)allow;
+- (void)setAllowEyesClosed:(BOOL)allow;
 @end
 
 

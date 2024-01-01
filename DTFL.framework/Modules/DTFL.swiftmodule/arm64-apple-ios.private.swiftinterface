@@ -13,8 +13,8 @@ import Vision
 import _Concurrency
 import _StringProcessing
 @_hasMissingDesignatedInitializers @objc public class DTException : ObjectiveC.NSObject, Swift.Error {
-  public func getErrorCode() -> Swift.Int?
-  public func getErrorMessage() -> Swift.String?
+  @objc public func getErrorCode() -> Foundation.NSNumber?
+  @objc public func getErrorMessage() -> Foundation.NSString?
   @objc deinit
 }
 public enum ErrorCode : Swift.Int {
@@ -58,15 +58,15 @@ public enum ErrorMessage : Swift.String {
 }
 @_inheritsConvenienceInitializers @objc public class DTFaceConfig : ObjectiveC.NSObject {
   @objc override dynamic public init()
-  public func setFaceCaptureTitle(title: Swift.String)
-  public func setClientRefId(clientRefId: Swift.String)
-  public func setFaceNonLiveDescription(desc: Swift.String)
-  public func setFaceLiveDescription(desc: Swift.String)
-  public func setMultipleFacesDescription(desc: Swift.String)
-  public func setMoveCameraAwayDescription(desc: Swift.String)
-  public func setMoveCameraCloserDescription(desc: Swift.String)
-  public func setAllowMultipleFace(allow: Swift.Bool)
-  public func setAllowEyesClosed(allow: Swift.Bool)
+  @objc public func setFaceCaptureTitle(_ title: Swift.String)
+  @objc public func setClientRefId(_ clientRefId: Swift.String)
+  @objc public func setFaceNonLiveDescription(_ desc: Swift.String)
+  @objc public func setFaceLiveDescription(_ desc: Swift.String)
+  @objc public func setMultipleFacesDescription(_ desc: Swift.String)
+  @objc public func setMoveCameraAwayDescription(_ desc: Swift.String)
+  @objc public func setMoveCameraCloserDescription(_ desc: Swift.String)
+  @objc public func setAllowMultipleFace(_ allow: Swift.Bool)
+  @objc public func setAllowEyesClosed(_ allow: Swift.Bool)
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc public class DTFLSDK : ObjectiveC.NSObject {
