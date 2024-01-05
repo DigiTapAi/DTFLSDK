@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "DTFLSDK"
-  spec.version      = "0.3.8"
+  spec.version      = "0.3.9"
   spec.summary      = "DTFLSDK is for doing face-capture."
 
   # This description is used to generate tags and improve search results.
@@ -73,7 +73,7 @@ DTFLSDK is for doing face-capture. Taking the selfie and sending to backend for 
   # spec.watchos.deployment_target = "2.0"
   # spec.tvos.deployment_target = "9.0"
 
-    spec.swift_version = '5.0'
+    spec.swift_version = '5.7'
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -96,9 +96,9 @@ DTFLSDK is for doing face-capture. Taking the selfie and sending to backend for 
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   # spec.exclude_files = "Classes/Exclude"
 
-  spec.source_files = 'DTFL.framework/Headers/*.h'
-  spec.public_header_files = "DTFL.framework/Headers/*.h"
-  spec.ios.vendored_frameworks = "DTFL.framework"
+  #spec.source_files = 'DTFL.framework/Headers/*.h'
+  #spec.public_header_files = "DTFL.framework/Headers/*.h"
+  spec.ios.vendored_frameworks = "DTFL.xcframework"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

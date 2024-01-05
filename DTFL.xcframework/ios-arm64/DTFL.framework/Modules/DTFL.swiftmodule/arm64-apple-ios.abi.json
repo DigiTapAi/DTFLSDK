@@ -3220,2058 +3220,2058 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 130,
       "length": 11,
       "value": "\"DTFL.DTException\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 626,
       "length": 4,
       "value": "1001"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 636,
       "length": 15,
       "value": "1002"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 657,
       "length": 14,
       "value": "1003"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 677,
       "length": 14,
       "value": "1004"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 697,
       "length": 22,
       "value": "1005"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 725,
       "length": 12,
       "value": "1006"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 743,
       "length": 14,
       "value": "1007"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 763,
       "length": 20,
       "value": "1008"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 789,
       "length": 22,
       "value": "1009"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 817,
       "length": 32,
       "value": "1010"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 855,
       "length": 11,
       "value": "1011"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 872,
       "length": 16,
       "value": "1012"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 894,
       "length": 13,
       "value": "1013"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 626,
       "length": 4,
       "value": "1001"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 636,
       "length": 15,
       "value": "1002"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 657,
       "length": 14,
       "value": "1003"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 677,
       "length": 14,
       "value": "1004"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 697,
       "length": 22,
       "value": "1005"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 725,
       "length": 12,
       "value": "1006"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 743,
       "length": 14,
       "value": "1007"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 763,
       "length": 20,
       "value": "1008"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 789,
       "length": 22,
       "value": "1009"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 817,
       "length": 32,
       "value": "1010"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 855,
       "length": 11,
       "value": "1011"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 872,
       "length": 16,
       "value": "1012"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 894,
       "length": 13,
       "value": "1013"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 626,
       "length": 4,
       "value": "1001"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 636,
       "length": 15,
       "value": "1002"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 657,
       "length": 14,
       "value": "1003"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 677,
       "length": 14,
       "value": "1004"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 697,
       "length": 22,
       "value": "1005"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 725,
       "length": 12,
       "value": "1006"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 743,
       "length": 14,
       "value": "1007"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 763,
       "length": 20,
       "value": "1008"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 789,
       "length": 22,
       "value": "1009"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 817,
       "length": 32,
       "value": "1010"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 855,
       "length": 11,
       "value": "1011"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 872,
       "length": 16,
       "value": "1012"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
       "offset": 894,
       "length": 13,
       "value": "1013"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 970,
       "length": 15,
       "value": "\"Invalid Input\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1013,
       "length": 22,
       "value": "\"Init not called yet.\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1062,
       "length": 16,
       "value": "\"User Cancelled\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1105,
       "length": 37,
       "value": "\"Internal Error, Try after some time\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1177,
       "length": 32,
       "value": "\"Permission not granted by user\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1234,
       "length": 35,
       "value": "\"Server Error, Try after some time\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1296,
       "length": 27,
       "value": "\"Capture failed, try again\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1356,
       "length": 36,
       "value": "\"Error in opening camera. try again\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1427,
       "length": 39,
       "value": "\"Getting camera info failed. try again\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1511,
       "length": 35,
       "value": "\"Face not detected. User Cancelled\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1570,
       "length": 31,
       "value": "\"Eyes closed, please try again\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1630,
       "length": 24,
       "value": "\"Front Camera not found\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1680,
       "length": 42,
       "value": "\"Multiple face detected, please try again\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 970,
       "length": 15,
       "value": "\"Invalid Input\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1013,
       "length": 22,
       "value": "\"Init not called yet.\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1062,
       "length": 16,
       "value": "\"User Cancelled\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1105,
       "length": 37,
       "value": "\"Internal Error, Try after some time\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1177,
       "length": 32,
       "value": "\"Permission not granted by user\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1234,
       "length": 35,
       "value": "\"Server Error, Try after some time\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1296,
       "length": 27,
       "value": "\"Capture failed, try again\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1356,
       "length": 36,
       "value": "\"Error in opening camera. try again\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1427,
       "length": 39,
       "value": "\"Getting camera info failed. try again\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1511,
       "length": 35,
       "value": "\"Face not detected. User Cancelled\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1570,
       "length": 31,
       "value": "\"Eyes closed, please try again\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1630,
       "length": 24,
       "value": "\"Front Camera not found\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "StringLiteral",
       "offset": 1680,
       "length": 42,
       "value": "\"Multiple face detected, please try again\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/FaceDetection\/DTFaceDetector.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/FaceDetection\/DTFaceDetector.swift",
       "kind": "Array",
       "offset": 221,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/FaceDetection\/DTFaceDetector.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/FaceDetection\/DTFaceDetector.swift",
       "kind": "FloatLiteral",
       "offset": 3149,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 777,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 791,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 777,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 791,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 777,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 791,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 852,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 863,
       "length": 5,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 878,
       "length": 5,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 893,
       "length": 8,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 911,
       "length": 6,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 852,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 863,
       "length": 5,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 878,
       "length": 5,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 893,
       "length": 8,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 911,
       "length": 6,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 852,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 863,
       "length": 5,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 878,
       "length": 5,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 893,
       "length": 8,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 911,
       "length": 6,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 984,
       "length": 6,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 984,
       "length": 6,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 984,
       "length": 6,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 1051,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 1111,
       "length": 2,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 1175,
       "length": 4,
       "value": "0.15"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 1232,
       "length": 4,
       "value": "12.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 1291,
       "length": 4,
       "value": "12.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 1345,
       "length": 3,
       "value": "8.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "BooleanLiteral",
       "offset": 1421,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 1704,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 1716,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 1761,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 1803,
       "length": 4,
       "value": "18.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 1852,
       "length": 4,
       "value": "24.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 1897,
       "length": 4,
       "value": "14.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 2076,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 2086,
       "length": 3,
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 2150,
       "length": 2,
       "value": "28"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 2162,
       "length": 2,
       "value": "28"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "BooleanLiteral",
       "offset": 2208,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 2305,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 2368,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 2533,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 2546,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "BooleanLiteral",
       "offset": 2879,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 3432,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "IntegerLiteral",
       "offset": 3473,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
       "kind": "FloatLiteral",
       "offset": 3524,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/FaceDetection\/VFFaceDetector.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/FaceDetection\/VFFaceDetector.swift",
       "kind": "Array",
       "offset": 238,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Config\/DTFaceConfig.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Config\/DTFaceConfig.swift",
       "kind": "StringLiteral",
       "offset": 228,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Config\/DTFaceConfig.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Config\/DTFaceConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 624,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Config\/DTFaceConfig.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Config\/DTFaceConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 656,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
       "offset": 259,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
       "offset": 289,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
       "offset": 322,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
       "offset": 359,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "BooleanLiteral",
       "offset": 392,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
       "offset": 803,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
       "offset": 849,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "FloatLiteral",
       "offset": 232,
       "length": 4,
       "value": "63.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "FloatLiteral",
       "offset": 237,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "FloatLiteral",
       "offset": 251,
       "length": 5,
       "value": "153.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "FloatLiteral",
       "offset": 257,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "FloatLiteral",
       "offset": 270,
       "length": 5,
       "value": "191.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "FloatLiteral",
       "offset": 276,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "FloatLiteral",
       "offset": 290,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 332,
       "length": 18,
       "value": "\"com.digitap.dtfl\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 383,
       "length": 6,
       "value": "\"DTFL\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 432,
       "length": 8,
       "value": "\"DTFLVC\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 485,
       "length": 10,
       "value": "\"CameraVC\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 546,
       "length": 31,
       "value": "\"https:\/\/apidemo.digitap.work\/\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 607,
       "length": 25,
       "value": "\"https:\/\/api.digitap.ai\/\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 662,
       "length": 27,
       "value": "\"https:\/\/api.digitap.work\/\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 721,
       "length": 32,
       "value": "\"https:\/\/apistage.digitap.work\/\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 818,
       "length": 16,
       "value": "\"fmfl\/v1\/config\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 863,
       "length": 23,
       "value": "\"fmfl\/v3\/face-liveness\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
       "offset": 926,
       "length": 3,
       "value": "45"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
       "offset": 965,
       "length": 2,
       "value": "45"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
       "offset": 1001,
       "length": 3,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
       "offset": 1038,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
       "offset": 1084,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
       "offset": 1130,
       "length": 2,
       "value": "97"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
       "offset": 1213,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 1284,
       "length": 3,
       "value": "\"1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 1342,
       "length": 3,
       "value": "\"2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 1409,
       "length": 3,
       "value": "\"3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 1560,
       "length": 5,
       "value": "\"yes\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 1613,
       "length": 120,
       "value": "\"Place your face with in the circle and close to the camera. Ensure the camera is held straight and in upright position\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 1771,
       "length": 13,
       "value": "\"Capture now\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 1827,
       "length": 25,
       "value": "\"Multiple faces detected\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 1896,
       "length": 28,
       "value": "\"Move camera away from face\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 1970,
       "length": 28,
       "value": "\"Move camera closer to face\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 2034,
       "length": 14,
       "value": "\"Face Capture\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
       "offset": 2143,
       "length": 3,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
       "offset": 2156,
       "length": 5,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
       "offset": 2171,
       "length": 3,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 809,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "IntegerLiteral",
       "offset": 895,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1105,
       "length": 9,
       "value": "\"iPod5,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1155,
       "length": 14,
       "value": "\"iPod Touch 5\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1181,
       "length": 9,
       "value": "\"iPod7,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1231,
       "length": 14,
       "value": "\"iPod Touch 6\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1257,
       "length": 11,
       "value": "\"iPhone3,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1270,
       "length": 11,
       "value": "\"iPhone3,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1283,
       "length": 11,
       "value": "\"iPhone3,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1307,
       "length": 10,
       "value": "\"iPhone 4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1329,
       "length": 11,
       "value": "\"iPhone4,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1379,
       "length": 11,
       "value": "\"iPhone 4s\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1402,
       "length": 11,
       "value": "\"iPhone5,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1415,
       "length": 11,
       "value": "\"iPhone5,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1452,
       "length": 10,
       "value": "\"iPhone 5\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1474,
       "length": 11,
       "value": "\"iPhone5,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1487,
       "length": 11,
       "value": "\"iPhone5,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1524,
       "length": 11,
       "value": "\"iPhone 5c\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1547,
       "length": 11,
       "value": "\"iPhone6,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1560,
       "length": 11,
       "value": "\"iPhone6,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1597,
       "length": 11,
       "value": "\"iPhone 5s\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1620,
       "length": 11,
       "value": "\"iPhone7,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1670,
       "length": 10,
       "value": "\"iPhone 6\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1692,
       "length": 11,
       "value": "\"iPhone7,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1742,
       "length": 15,
       "value": "\"iPhone 6 Plus\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1769,
       "length": 11,
       "value": "\"iPhone8,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1819,
       "length": 11,
       "value": "\"iPhone 6s\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1842,
       "length": 11,
       "value": "\"iPhone8,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1892,
       "length": 16,
       "value": "\"iPhone 6s Plus\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1920,
       "length": 11,
       "value": "\"iPhone9,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1933,
       "length": 11,
       "value": "\"iPhone9,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1970,
       "length": 10,
       "value": "\"iPhone 7\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 1992,
       "length": 11,
       "value": "\"iPhone9,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2005,
       "length": 11,
       "value": "\"iPhone9,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2042,
       "length": 15,
       "value": "\"iPhone 7 Plus\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2069,
       "length": 11,
       "value": "\"iPhone8,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2119,
       "length": 11,
       "value": "\"iPhone SE\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2142,
       "length": 12,
       "value": "\"iPhone10,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2156,
       "length": 12,
       "value": "\"iPhone10,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2192,
       "length": 10,
       "value": "\"iPhone 8\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2214,
       "length": 12,
       "value": "\"iPhone10,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2228,
       "length": 12,
       "value": "\"iPhone10,5\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2264,
       "length": 15,
       "value": "\"iPhone 8 Plus\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2291,
       "length": 12,
       "value": "\"iPhone10,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2305,
       "length": 12,
       "value": "\"iPhone10,6\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2341,
       "length": 10,
       "value": "\"iPhone X\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2363,
       "length": 12,
       "value": "\"iPhone11,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2413,
       "length": 11,
       "value": "\"iPhone XS\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2436,
       "length": 12,
       "value": "\"iPhone11,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2450,
       "length": 12,
       "value": "\"iPhone11,6\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2486,
       "length": 15,
       "value": "\"iPhone XS Max\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2513,
       "length": 12,
       "value": "\"iPhone11,8\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2563,
       "length": 11,
       "value": "\"iPhone XR\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2586,
       "length": 9,
       "value": "\"iPad2,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2597,
       "length": 9,
       "value": "\"iPad2,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2608,
       "length": 9,
       "value": "\"iPad2,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2619,
       "length": 9,
       "value": "\"iPad2,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2636,
       "length": 8,
       "value": "\"iPad 2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2656,
       "length": 9,
       "value": "\"iPad3,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2667,
       "length": 9,
       "value": "\"iPad3,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2678,
       "length": 9,
       "value": "\"iPad3,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2706,
       "length": 8,
       "value": "\"iPad 3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2726,
       "length": 9,
       "value": "\"iPad3,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2737,
       "length": 9,
       "value": "\"iPad3,5\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2748,
       "length": 9,
       "value": "\"iPad3,6\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2776,
       "length": 8,
       "value": "\"iPad 4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2796,
       "length": 9,
       "value": "\"iPad4,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2807,
       "length": 9,
       "value": "\"iPad4,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2818,
       "length": 9,
       "value": "\"iPad4,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2846,
       "length": 10,
       "value": "\"iPad Air\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2868,
       "length": 9,
       "value": "\"iPad5,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2879,
       "length": 9,
       "value": "\"iPad5,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2918,
       "length": 12,
       "value": "\"iPad Air 2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2942,
       "length": 10,
       "value": "\"iPad6,11\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2954,
       "length": 10,
       "value": "\"iPad6,12\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 2992,
       "length": 8,
       "value": "\"iPad 5\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3012,
       "length": 9,
       "value": "\"iPad7,5\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3023,
       "length": 9,
       "value": "\"iPad7,6\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3062,
       "length": 8,
       "value": "\"iPad 6\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3082,
       "length": 9,
       "value": "\"iPad2,5\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3093,
       "length": 9,
       "value": "\"iPad2,6\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3104,
       "length": 9,
       "value": "\"iPad2,7\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3132,
       "length": 11,
       "value": "\"iPad Mini\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3155,
       "length": 9,
       "value": "\"iPad4,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3166,
       "length": 9,
       "value": "\"iPad4,5\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3177,
       "length": 9,
       "value": "\"iPad4,6\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3205,
       "length": 13,
       "value": "\"iPad Mini 2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3230,
       "length": 9,
       "value": "\"iPad4,7\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3241,
       "length": 9,
       "value": "\"iPad4,8\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3252,
       "length": 9,
       "value": "\"iPad4,9\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3280,
       "length": 13,
       "value": "\"iPad Mini 3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3305,
       "length": 9,
       "value": "\"iPad5,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3316,
       "length": 9,
       "value": "\"iPad5,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3355,
       "length": 13,
       "value": "\"iPad Mini 4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3380,
       "length": 9,
       "value": "\"iPad6,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3391,
       "length": 9,
       "value": "\"iPad6,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3430,
       "length": 21,
       "value": "\"iPad Pro (9.7-inch)\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3463,
       "length": 9,
       "value": "\"iPad6,7\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3474,
       "length": 9,
       "value": "\"iPad6,8\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3513,
       "length": 22,
       "value": "\"iPad Pro (12.9-inch)\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3547,
       "length": 9,
       "value": "\"iPad7,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3558,
       "length": 9,
       "value": "\"iPad7,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3597,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (2nd generation)\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3648,
       "length": 9,
       "value": "\"iPad7,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3659,
       "length": 9,
       "value": "\"iPad7,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3698,
       "length": 22,
       "value": "\"iPad Pro (10.5-inch)\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3732,
       "length": 9,
       "value": "\"iPad8,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3743,
       "length": 9,
       "value": "\"iPad8,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3754,
       "length": 9,
       "value": "\"iPad8,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3765,
       "length": 9,
       "value": "\"iPad8,4\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3782,
       "length": 20,
       "value": "\"iPad Pro (11-inch)\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3814,
       "length": 9,
       "value": "\"iPad8,5\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3825,
       "length": 9,
       "value": "\"iPad8,6\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3836,
       "length": 9,
       "value": "\"iPad8,7\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3847,
       "length": 9,
       "value": "\"iPad8,8\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3864,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (3rd generation)\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3915,
       "length": 12,
       "value": "\"AppleTV5,3\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3965,
       "length": 10,
       "value": "\"Apple TV\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 3987,
       "length": 12,
       "value": "\"AppleTV6,2\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 4037,
       "length": 13,
       "value": "\"Apple TV 4K\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 4062,
       "length": 19,
       "value": "\"AudioAccessory1,1\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 4112,
       "length": 9,
       "value": "\"HomePod\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 4133,
       "length": 6,
       "value": "\"i386\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 4141,
       "length": 8,
       "value": "\"x86_64\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 4183,
       "length": 104,
       "value": "\"Simulator \""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 4246,
       "length": 28,
       "value": "\"SIMULATOR_MODEL_IDENTIFIER\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 4279,
       "length": 5,
       "value": "\"iOS\""
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
       "offset": 4286,
       "length": 1,
