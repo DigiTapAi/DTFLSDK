@@ -1,7 +1,7 @@
 framework module DTFL {
   umbrella header "DTFL.h"
-
   export *
+
   module * { export * }
 }
 

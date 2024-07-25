@@ -1,24 +1,26 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
-// swift-module-flags: -target arm64-apple-ios12.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DTFL
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios12.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name DTFL
 import AVFoundation
 @_exported import DTFL
+import DeveloperToolsSupport
 import Foundation
 import QuartzCore
 import Swift
+import SwiftUI
 import SystemConfiguration
 import UIKit
 import Vision
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers @objc public class DTException : ObjectiveC.NSObject, Swift.Error {
   @objc public func getErrorCode() -> Foundation.NSNumber?
   @objc public func getErrorMessage() -> Foundation.NSString?
   @objc deinit
 }
 public enum ErrorCode : Swift.Int {
-  case INVALID_INPUT, INIT_NOT_CALLED, USER_CANCELLED, INTERNAL_ERROR, PERMISSION_NOT_GRANTED, SERVER_ERROR, CAPTURE_FAILED, CAMERA_LAUNCH_FAILED, GET_CAMERA_INFO_FAILED, FACE_NOT_DETECTED_USER_CANCELLED, EYES_CLOSED, CAMERA_NOT_FOUND, MULTIPLE_FACE
+  case INVALID_INPUT, INIT_NOT_CALLED, USER_CANCELLED, INTERNAL_ERROR, PERMISSION_NOT_GRANTED, SERVER_ERROR, CAPTURE_FAILED, CAMERA_LAUNCH_FAILED, GET_CAMERA_INFO_FAILED, FACE_NOT_DETECTED_USER_CANCELLED, EYES_CLOSED, MULTIPLE_FACE, BLUR_FACE, FACE_MASK, NON_ALIGNED_FACE, LOW_LIGHT_IMAGE, CAMERA_NOT_FOUND
   public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
@@ -37,8 +39,12 @@ public enum ErrorMessage : Swift.String {
   case GET_CAMERA_INFO_FAILED
   case FACE_NOT_DETECTED_USER_CANCELLED
   case EYES_CLOSED
-  case CAMERA_NOT_FOUND
   case MULTIPLE_FACE
+  case BLUR_FACE
+  case FACE_MASK
+  case NON_ALIGNED_FACE
+  case LOW_LIGHT_IMAGE
+  case CAMERA_NOT_FOUND
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -65,8 +71,13 @@ public enum ErrorMessage : Swift.String {
   @objc public func setMultipleFacesDescription(_ desc: Swift.String)
   @objc public func setMoveCameraAwayDescription(_ desc: Swift.String)
   @objc public func setMoveCameraCloserDescription(_ desc: Swift.String)
-  @objc public func setAllowMultipleFace(_ allow: Swift.Bool)
-  @objc public func setAllowEyesClosed(_ allow: Swift.Bool)
+  @objc public func setAllowMultipleFace(_ allow: Swift.String)
+  @objc public func setAllowEyesClosed(_ allow: Swift.String)
+  @objc public func setAllowBlurFace(_ allow: Swift.String)
+  @objc public func setAllowFaceMask(_ allow: Swift.String)
+  @objc public func setAllowNonAlignedFace(_ allow: Swift.String)
+  @objc public func setAllowLowLightImage(_ allow: Swift.String)
+  @objc public func setResponseInError(_ allow: Swift.String)
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc public class DTFLSDK : ObjectiveC.NSObject {
