@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "DTFL",
+    "printedName": "DTFL",
     "children": [
       {
         "kind": "Import",
@@ -177,6 +177,20 @@
             "printedName": "Error",
             "usr": "s:s5ErrorP",
             "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -871,6 +885,43 @@
             "moduleName": "DTFL"
           },
           {
+            "kind": "Var",
+            "name": "OCCLUDED_FACE",
+            "printedName": "OCCLUDED_FACE",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DTFL.ErrorCode.Type) -> DTFL.ErrorCode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ErrorCode",
+                    "printedName": "DTFL.ErrorCode",
+                    "usr": "s:4DTFL9ErrorCodeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DTFL.ErrorCode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "DTFL.ErrorCode",
+                        "usr": "s:4DTFL9ErrorCodeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:4DTFL9ErrorCodeO13OCCLUDED_FACEyA2CmF",
+            "mangledName": "$s4DTFL9ErrorCodeO13OCCLUDED_FACEyA2CmF",
+            "moduleName": "DTFL"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(rawValue:)",
@@ -952,6 +1003,20 @@
         ],
         "enumRawTypeName": "Int",
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1625,6 +1690,43 @@
             "moduleName": "DTFL"
           },
           {
+            "kind": "Var",
+            "name": "OCCLUDED_FACE",
+            "printedName": "OCCLUDED_FACE",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DTFL.ErrorMessage.Type) -> DTFL.ErrorMessage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ErrorMessage",
+                    "printedName": "DTFL.ErrorMessage",
+                    "usr": "s:4DTFL12ErrorMessageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DTFL.ErrorMessage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorMessage",
+                        "printedName": "DTFL.ErrorMessage",
+                        "usr": "s:4DTFL12ErrorMessageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:4DTFL12ErrorMessageO13OCCLUDED_FACEyA2CmF",
+            "mangledName": "$s4DTFL12ErrorMessageO13OCCLUDED_FACEyA2CmF",
+            "moduleName": "DTFL"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(rawValue:)",
@@ -1706,6 +1808,20 @@
         ],
         "enumRawTypeName": "String",
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1997,6 +2113,139 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setClientSessionId",
+            "printedName": "setClientSessionId(clientSessionId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:4DTFL14LivenessConfigC18setClientSessionId06clientfG0ySS_tF",
+            "mangledName": "$s4DTFL14LivenessConfigC18setClientSessionId06clientfG0ySS_tF",
+            "moduleName": "DTFL",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setExpiryInSeconds",
+            "printedName": "setExpiryInSeconds(time:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:4DTFL14LivenessConfigC18setExpiryInSeconds4timeySi_tF",
+            "mangledName": "$s4DTFL14LivenessConfigC18setExpiryInSeconds4timeySi_tF",
+            "moduleName": "DTFL",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setExpiryTimestamp",
+            "printedName": "setExpiryTimestamp(timestamp:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int64",
+                "printedName": "Swift.Int64",
+                "usr": "s:s5Int64V"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:4DTFL14LivenessConfigC18setExpiryTimestamp9timestampys5Int64V_tF",
+            "mangledName": "$s4DTFL14LivenessConfigC18setExpiryTimestamp9timestampys5Int64V_tF",
+            "moduleName": "DTFL",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "LivenessConfig",
+                "printedName": "DTFL.LivenessConfig",
+                "usr": "s:4DTFL14LivenessConfigC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:4DTFL14LivenessConfigC4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s4DTFL14LivenessConfigC4fromACs7Decoder_p_tKcfc",
+            "moduleName": "DTFL",
+            "implicit": true,
+            "declAttributes": [
+              "Required"
+            ],
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:4DTFL14LivenessConfigC6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s4DTFL14LivenessConfigC6encode2toys7Encoder_p_tKF",
+            "moduleName": "DTFL",
+            "implicit": true,
+            "isOpen": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -2007,7 +2256,363 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FaceDetectionState",
+        "printedName": "FaceDetectionState",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "FACE_DETECTED",
+            "printedName": "FACE_DETECTED",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DTFL.FaceDetectionState.Type) -> DTFL.FaceDetectionState",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceDetectionState",
+                    "printedName": "DTFL.FaceDetectionState",
+                    "usr": "s:4DTFL18FaceDetectionStateO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DTFL.FaceDetectionState.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceDetectionState",
+                        "printedName": "DTFL.FaceDetectionState",
+                        "usr": "s:4DTFL18FaceDetectionStateO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:4DTFL18FaceDetectionStateO13FACE_DETECTEDyA2CmF",
+            "mangledName": "$s4DTFL18FaceDetectionStateO13FACE_DETECTEDyA2CmF",
+            "moduleName": "DTFL"
+          },
+          {
+            "kind": "Var",
+            "name": "FACE_NOT_DETECTED",
+            "printedName": "FACE_NOT_DETECTED",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DTFL.FaceDetectionState.Type) -> DTFL.FaceDetectionState",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceDetectionState",
+                    "printedName": "DTFL.FaceDetectionState",
+                    "usr": "s:4DTFL18FaceDetectionStateO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DTFL.FaceDetectionState.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceDetectionState",
+                        "printedName": "DTFL.FaceDetectionState",
+                        "usr": "s:4DTFL18FaceDetectionStateO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:4DTFL18FaceDetectionStateO17FACE_NOT_DETECTEDyA2CmF",
+            "mangledName": "$s4DTFL18FaceDetectionStateO17FACE_NOT_DETECTEDyA2CmF",
+            "moduleName": "DTFL"
+          },
+          {
+            "kind": "Var",
+            "name": "FACE_TOO_CLOSE",
+            "printedName": "FACE_TOO_CLOSE",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DTFL.FaceDetectionState.Type) -> DTFL.FaceDetectionState",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceDetectionState",
+                    "printedName": "DTFL.FaceDetectionState",
+                    "usr": "s:4DTFL18FaceDetectionStateO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DTFL.FaceDetectionState.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceDetectionState",
+                        "printedName": "DTFL.FaceDetectionState",
+                        "usr": "s:4DTFL18FaceDetectionStateO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:4DTFL18FaceDetectionStateO14FACE_TOO_CLOSEyA2CmF",
+            "mangledName": "$s4DTFL18FaceDetectionStateO14FACE_TOO_CLOSEyA2CmF",
+            "moduleName": "DTFL"
+          },
+          {
+            "kind": "Var",
+            "name": "FACE_TOO_FAR",
+            "printedName": "FACE_TOO_FAR",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DTFL.FaceDetectionState.Type) -> DTFL.FaceDetectionState",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceDetectionState",
+                    "printedName": "DTFL.FaceDetectionState",
+                    "usr": "s:4DTFL18FaceDetectionStateO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DTFL.FaceDetectionState.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceDetectionState",
+                        "printedName": "DTFL.FaceDetectionState",
+                        "usr": "s:4DTFL18FaceDetectionStateO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:4DTFL18FaceDetectionStateO12FACE_TOO_FARyA2CmF",
+            "mangledName": "$s4DTFL18FaceDetectionStateO12FACE_TOO_FARyA2CmF",
+            "moduleName": "DTFL"
+          },
+          {
+            "kind": "Var",
+            "name": "MULTIPLE_FACES",
+            "printedName": "MULTIPLE_FACES",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DTFL.FaceDetectionState.Type) -> DTFL.FaceDetectionState",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceDetectionState",
+                    "printedName": "DTFL.FaceDetectionState",
+                    "usr": "s:4DTFL18FaceDetectionStateO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DTFL.FaceDetectionState.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceDetectionState",
+                        "printedName": "DTFL.FaceDetectionState",
+                        "usr": "s:4DTFL18FaceDetectionStateO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:4DTFL18FaceDetectionStateO14MULTIPLE_FACESyA2CmF",
+            "mangledName": "$s4DTFL18FaceDetectionStateO14MULTIPLE_FACESyA2CmF",
+            "moduleName": "DTFL"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FaceDetectionState",
+                "printedName": "DTFL.FaceDetectionState",
+                "usr": "s:4DTFL18FaceDetectionStateO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FaceDetectionState",
+                "printedName": "DTFL.FaceDetectionState",
+                "usr": "s:4DTFL18FaceDetectionStateO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:4DTFL18FaceDetectionStateO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s4DTFL18FaceDetectionStateO2eeoiySbAC_ACtFZ",
+            "moduleName": "DTFL",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:4DTFL18FaceDetectionStateO9hashValueSivp",
+            "mangledName": "$s4DTFL18FaceDetectionStateO9hashValueSivp",
+            "moduleName": "DTFL",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:4DTFL18FaceDetectionStateO9hashValueSivg",
+                "mangledName": "$s4DTFL18FaceDetectionStateO9hashValueSivg",
+                "moduleName": "DTFL",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:4DTFL18FaceDetectionStateO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s4DTFL18FaceDetectionStateO4hash4intoys6HasherVz_tF",
+            "moduleName": "DTFL",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:4DTFL18FaceDetectionStateO",
+        "mangledName": "$s4DTFL18FaceDetectionStateO",
+        "moduleName": "DTFL",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -2109,6 +2714,66 @@
         "moduleName": "DTFL",
         "declAttributes": [
           "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FaceDetectionListener",
+        "printedName": "FaceDetectionListener",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "setFaceDetectionState",
+            "printedName": "setFaceDetectionState(state:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FaceDetectionState",
+                "printedName": "DTFL.FaceDetectionState",
+                "usr": "s:4DTFL18FaceDetectionStateO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:4DTFL21FaceDetectionListenerP03setbC5State5stateyAA0bcF0O_tF",
+            "mangledName": "$s4DTFL21FaceDetectionListenerP03setbC5State5stateyAA0bcF0O_tF",
+            "moduleName": "DTFL",
+            "genericSig": "<τ_0_0 where τ_0_0 : DTFL.FaceDetectionListener>",
+            "sugared_genericSig": "<Self where Self : DTFL.FaceDetectionListener>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:4DTFL21FaceDetectionListenerP",
+        "mangledName": "$s4DTFL21FaceDetectionListenerP",
+        "moduleName": "DTFL",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -2482,6 +3147,33 @@
           },
           {
             "kind": "Function",
+            "name": "setAllowOccludedFace",
+            "printedName": "setAllowOccludedFace(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@DTFL@objc(cs)DTFaceConfig(im)setAllowOccludedFace:",
+            "mangledName": "$s4DTFL12DTFaceConfigC20setAllowOccludedFaceyySSF",
+            "moduleName": "DTFL",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "setAllowNonAlignedFace",
             "printedName": "setAllowNonAlignedFace(_:)",
             "children": [
@@ -2576,6 +3268,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -2745,6 +3451,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -2906,6 +3626,7 @@
             "static": true,
             "declAttributes": [
               "Final",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "ObjC",
@@ -2933,6 +3654,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Override",
@@ -2966,6 +3688,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Override"
@@ -2993,6 +3716,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -3074,6 +3798,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -3115,6 +3840,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Required"
             ],
@@ -3126,6 +3852,7 @@
         "mangledName": "$s4DTFL6DTFLVCC",
         "moduleName": "DTFL",
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjC"
@@ -3138,6 +3865,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -3556,6 +4297,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -3686,648 +4441,277 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 130,
-      "length": 11,
-      "value": "\"DTFL.DTException\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Manager\/ApiManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 626,
-      "length": 4,
-      "value": "1001"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 641,
-      "length": 15,
-      "value": "1002"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 667,
-      "length": 14,
-      "value": "1003"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 692,
-      "length": 14,
-      "value": "1004"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 717,
-      "length": 22,
-      "value": "1005"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 750,
-      "length": 12,
-      "value": "1006"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 773,
-      "length": 14,
-      "value": "1007"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 798,
-      "length": 20,
-      "value": "1008"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 829,
-      "length": 22,
-      "value": "1009"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 862,
-      "length": 32,
-      "value": "1010"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 905,
-      "length": 11,
-      "value": "1011"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 927,
-      "length": 13,
-      "value": "1012"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 951,
-      "length": 9,
-      "value": "1013"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 971,
-      "length": 9,
-      "value": "1014"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 991,
-      "length": 16,
-      "value": "1015"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1018,
-      "length": 15,
-      "value": "1016"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1044,
-      "length": 16,
-      "value": "1017"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 626,
-      "length": 4,
-      "value": "1001"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 641,
-      "length": 15,
-      "value": "1002"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 667,
-      "length": 14,
-      "value": "1003"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 692,
-      "length": 14,
-      "value": "1004"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 717,
-      "length": 22,
-      "value": "1005"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 750,
-      "length": 12,
-      "value": "1006"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 773,
-      "length": 14,
-      "value": "1007"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 798,
-      "length": 20,
-      "value": "1008"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 829,
-      "length": 22,
-      "value": "1009"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 862,
-      "length": 32,
-      "value": "1010"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 905,
-      "length": 11,
-      "value": "1011"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 927,
-      "length": 13,
-      "value": "1012"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 951,
-      "length": 9,
-      "value": "1013"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 971,
-      "length": 9,
-      "value": "1014"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 991,
-      "length": 16,
-      "value": "1015"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1018,
-      "length": 15,
-      "value": "1016"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1044,
-      "length": 16,
-      "value": "1017"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 626,
-      "length": 4,
-      "value": "1001"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 641,
-      "length": 15,
-      "value": "1002"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 667,
-      "length": 14,
-      "value": "1003"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 692,
-      "length": 14,
-      "value": "1004"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 717,
-      "length": 22,
-      "value": "1005"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 750,
-      "length": 12,
-      "value": "1006"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 773,
-      "length": 14,
-      "value": "1007"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 798,
-      "length": 20,
-      "value": "1008"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 829,
-      "length": 22,
-      "value": "1009"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 862,
-      "length": 32,
-      "value": "1010"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 905,
-      "length": 11,
-      "value": "1011"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 927,
-      "length": 13,
-      "value": "1012"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 951,
-      "length": 9,
-      "value": "1013"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 971,
-      "length": 9,
-      "value": "1014"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 991,
-      "length": 16,
-      "value": "1015"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1018,
-      "length": 15,
-      "value": "1016"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1044,
-      "length": 16,
-      "value": "1017"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1125,
-      "length": 15,
-      "value": "\"Invalid Input\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1168,
-      "length": 22,
-      "value": "\"Init not called yet.\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1217,
-      "length": 16,
-      "value": "\"User Cancelled\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1260,
-      "length": 37,
-      "value": "\"Internal Error, Try after some time\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1332,
-      "length": 32,
-      "value": "\"Permission not granted by user\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1389,
-      "length": 35,
-      "value": "\"Server Error, Try after some time\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1451,
-      "length": 27,
-      "value": "\"Capture failed, try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1511,
-      "length": 36,
-      "value": "\"Error in opening camera. try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1582,
-      "length": 39,
-      "value": "\"Getting camera info failed. try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1666,
-      "length": 35,
-      "value": "\"Face not detected. User Cancelled\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1725,
-      "length": 31,
-      "value": "\"Eyes closed, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1782,
-      "length": 42,
-      "value": "\"Multiple face detected, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1846,
-      "length": 32,
-      "value": "\"Face is blur, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1900,
-      "length": 38,
-      "value": "\"Face contains mask, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1967,
-      "length": 36,
-      "value": "\"Face not aligned, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 2031,
-      "length": 42,
-      "value": "\"Poor lighting detected, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 2102,
-      "length": 24,
-      "value": "\"Front Camera not found\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1125,
-      "length": 15,
-      "value": "\"Invalid Input\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1168,
-      "length": 22,
-      "value": "\"Init not called yet.\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1217,
-      "length": 16,
-      "value": "\"User Cancelled\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1260,
-      "length": 37,
-      "value": "\"Internal Error, Try after some time\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1332,
-      "length": 32,
-      "value": "\"Permission not granted by user\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1389,
-      "length": 35,
-      "value": "\"Server Error, Try after some time\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1451,
-      "length": 27,
-      "value": "\"Capture failed, try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1511,
-      "length": 36,
-      "value": "\"Error in opening camera. try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1582,
-      "length": 39,
-      "value": "\"Getting camera info failed. try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1666,
-      "length": 35,
-      "value": "\"Face not detected. User Cancelled\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1725,
-      "length": 31,
-      "value": "\"Eyes closed, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1782,
-      "length": 42,
-      "value": "\"Multiple face detected, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1846,
-      "length": 32,
-      "value": "\"Face is blur, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1900,
-      "length": 38,
-      "value": "\"Face contains mask, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 1967,
-      "length": 36,
-      "value": "\"Face not aligned, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 2031,
-      "length": 42,
-      "value": "\"Poor lighting detected, please try again\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
-      "kind": "StringLiteral",
-      "offset": 2102,
-      "length": 24,
-      "value": "\"Front Camera not found\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/FaceDetection\/DTFaceDetector.swift",
-      "kind": "Array",
-      "offset": 221,
+      "offset": 356,
       "length": 2,
-      "value": "[]"
+      "value": "40"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/FaceDetection\/DTFaceDetector.swift",
-      "kind": "FloatLiteral",
-      "offset": 3149,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Manager\/ApiManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 777,
+      "offset": 422,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Manager\/ApiManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3917,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 626,
       "length": 4,
-      "value": "1"
+      "value": "1001"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 791,
-      "length": 6,
-      "value": "2"
+      "offset": 641,
+      "length": 15,
+      "value": "1002"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 777,
-      "length": 4,
-      "value": "1"
+      "offset": 667,
+      "length": 14,
+      "value": "1003"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
       "kind": "IntegerLiteral",
-      "offset": 791,
-      "length": 6,
-      "value": "2"
+      "offset": 692,
+      "length": 14,
+      "value": "1004"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 717,
+      "length": 22,
+      "value": "1005"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 750,
+      "length": 12,
+      "value": "1006"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 773,
+      "length": 14,
+      "value": "1007"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 798,
+      "length": 20,
+      "value": "1008"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 829,
+      "length": 22,
+      "value": "1009"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 862,
+      "length": 32,
+      "value": "1010"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 905,
+      "length": 11,
+      "value": "1011"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 927,
+      "length": 13,
+      "value": "1012"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 951,
+      "length": 9,
+      "value": "1013"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 971,
+      "length": 9,
+      "value": "1014"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 991,
+      "length": 16,
+      "value": "1015"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1018,
+      "length": 15,
+      "value": "1016"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1044,
+      "length": 16,
+      "value": "1017"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1071,
+      "length": 13,
+      "value": "1018"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1149,
+      "length": 15,
+      "value": "\"Invalid Input\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1192,
+      "length": 22,
+      "value": "\"Init not called yet.\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1241,
+      "length": 16,
+      "value": "\"User Cancelled\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1284,
+      "length": 37,
+      "value": "\"Internal Error, Try after some time\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1356,
+      "length": 32,
+      "value": "\"Permission not granted by user\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1413,
+      "length": 35,
+      "value": "\"Server Error, Try after some time\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1475,
+      "length": 27,
+      "value": "\"Capture failed, try again\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1535,
+      "length": 36,
+      "value": "\"Error in opening camera. try again\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1606,
+      "length": 39,
+      "value": "\"Getting camera info failed. try again\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1690,
+      "length": 35,
+      "value": "\"Face not detected. User Cancelled\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1749,
+      "length": 31,
+      "value": "\"Eyes closed, please try again\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1806,
+      "length": 42,
+      "value": "\"Multiple face detected, please try again\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1870,
+      "length": 32,
+      "value": "\"Face is blur, please try again\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1924,
+      "length": 38,
+      "value": "\"Face contains mask, please try again\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 1991,
+      "length": 36,
+      "value": "\"Face not aligned, please try again\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 2055,
+      "length": 42,
+      "value": "\"Poor lighting detected, please try again\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 2126,
+      "length": 24,
+      "value": "\"Front Camera not found\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Exception\/DTException.swift",
+      "kind": "StringLiteral",
+      "offset": 2176,
+      "length": 41,
+      "value": "\"Full face not visible, please try again\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
@@ -4377,90 +4761,6 @@
       "offset": 911,
       "length": 6,
       "value": "5"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 852,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 863,
-      "length": 5,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 878,
-      "length": 5,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 893,
-      "length": 8,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 911,
-      "length": 6,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 852,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 863,
-      "length": 5,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 878,
-      "length": 5,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 893,
-      "length": 8,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 911,
-      "length": 6,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 984,
-      "length": 6,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
-      "kind": "IntegerLiteral",
-      "offset": 984,
-      "length": 6,
-      "value": "1"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
@@ -4652,11 +4952,130 @@
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/FaceDetection\/VFFaceDetector.swift",
-      "kind": "Array",
-      "offset": 238,
-      "length": 2,
-      "value": "[]"
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11722,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "StringLiteral",
+      "offset": 11785,
+      "length": 9,
+      "value": "\"Loading\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11832,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11893,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11971,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "StringLiteral",
+      "offset": 12048,
+      "length": 9,
+      "value": "\"Loading\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12108,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12169,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 12234,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12483,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 12485,
+      "length": 3,
+      "value": "1.5"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12493,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 12495,
+      "length": 3,
+      "value": "1.5"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 12956,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13732,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13950,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14036,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/IHProgressHUD\/IHProgressHUD.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14874,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Config\/DTFaceConfig.swift",
@@ -4703,16 +5122,37 @@
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
-      "offset": 803,
+      "offset": 747,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
       "kind": "StringLiteral",
-      "offset": 849,
+      "offset": 793,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/DTFLVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17875,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/CameraVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10160,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/CameraVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 12454,
+      "length": 3,
+      "value": "1.0"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
@@ -4824,7 +5264,7 @@
       "kind": "StringLiteral",
       "offset": 807,
       "length": 7,
-      "value": "\"1.1.0\""
+      "value": "\"1.1.1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
@@ -4858,153 +5298,153 @@
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
       "offset": 1087,
-      "length": 3,
-      "value": "-45"
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1126,
       "length": 2,
-      "value": "45"
+      "value": "-1"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 1162,
+      "offset": 1125,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1161,
       "length": 3,
       "value": "-12"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 1199,
+      "offset": 1198,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 1245,
+      "offset": 1244,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 1291,
+      "offset": 1290,
       "length": 2,
       "value": "97"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 1374,
+      "offset": 1373,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 1445,
+      "offset": 1444,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 1503,
+      "offset": 1502,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 1570,
+      "offset": 1569,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1728,
+      "length": 4,
+      "value": "3600"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 1721,
+      "offset": 1799,
       "length": 5,
       "value": "\"yes\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 1760,
-      "length": 5,
-      "value": "\"yes\""
-    },
-    {
-      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
-      "kind": "StringLiteral",
-      "offset": 1793,
+      "offset": 1832,
       "length": 4,
       "value": "\"no\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 1845,
+      "offset": 1884,
       "length": 120,
       "value": "\"Place your face with in the circle and close to the camera. Ensure the camera is held straight and in upright position\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 2003,
+      "offset": 2042,
       "length": 13,
       "value": "\"Capture now\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 2059,
+      "offset": 2098,
       "length": 25,
       "value": "\"Multiple faces detected\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 2128,
+      "offset": 2167,
       "length": 28,
       "value": "\"Move camera away from face\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 2202,
+      "offset": 2241,
       "length": 28,
       "value": "\"Move camera closer to face\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 2266,
+      "offset": 2305,
       "length": 14,
       "value": "\"Face Capture\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 2375,
+      "offset": 2414,
       "length": 3,
       "value": "1"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 2388,
+      "offset": 2427,
       "length": 5,
       "value": "2"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 2403,
+      "offset": 2442,
       "length": 3,
       "value": "3"
     },
