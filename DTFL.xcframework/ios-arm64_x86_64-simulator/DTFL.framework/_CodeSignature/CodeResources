@@ -6,11 +6,15 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		irqmFmGGJCIVnsujTz0HO7DK/wc=
+		pnTkzpdhUH3gRXJENuqtj4dIc80=
 		</data>
 		<key>DTFL.storyboardc/CameraVC.nib</key>
 		<data>
 		Me4mqON1aFEu+ZTBHCQrW4p4Xwk=
+		</data>
+		<key>DTFL.storyboardc/CancelConfirmationDialog.nib</key>
+		<data>
+		2gxLYqjC5ZMfDaFDEGW6FejYULc=
 		</data>
 		<key>DTFL.storyboardc/DTFLVC.nib</key>
 		<data>
@@ -18,19 +22,31 @@
 		</data>
 		<key>DTFL.storyboardc/Info.plist</key>
 		<data>
-		7wE8fglCZ1N++4zaQ/y7rx+AAx4=
+		KGwUs3836ALlEr4X32nV0mGYEWU=
+		</data>
+		<key>DTFL.storyboardc/RetryVC.nib</key>
+		<data>
+		cN05OsYggi88TRJhct7NU5z20Ko=
 		</data>
 		<key>DTFL.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		77sdDok+GC11sx8kWEsGDhWuT7o=
+		f+HVNRU0H78ivStTJ1/sy/8OWKs=
+		</data>
+		<key>DTFL.storyboardc/cancel-dialog-vc-view-cancel-dialog-root.nib</key>
+		<data>
+		OcXgr4+O8wqFJEmFctk3ToXphI0=
 		</data>
 		<key>DTFL.storyboardc/qpS-Rh-oSW-view-f5M-w0-Auy.nib</key>
 		<data>
-		zLS84INzfBf2/u5KPbaAoWfzTms=
+		zKSJ6AJChKQ3SruqcXQs2cCE86I=
+		</data>
+		<key>DTFL.storyboardc/xHJ-Mg-sJA-view-vXV-i9-eYz.nib</key>
+		<data>
+		fYPQZZeZ0WPLDMswg3xM1Z6+xOA=
 		</data>
 		<key>Headers/DTFL-Swift.h</key>
 		<data>
-		Oi7kdFDKk3vyV+HpJLXqJJQkJ4Y=
+		UZNWOKw6IFYAvN3v67nvGzFc+0w=
 		</data>
 		<key>Headers/DTFL.h</key>
 		<data>
@@ -50,51 +66,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JS11DbNgtIGoysX10izt+bgi9r4=
+		D2NNgiB+JyjPgYuVt37uQcIPSDY=
 		</data>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JqSZO71OG/kLH5hkPeDThwpXnZY=
+		1+mK28b2UhA7zxhbXmzmdeFPTPw=
 		</data>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		cRgyhGU//q1nMAdTQyGquv4N3jA=
+		y4d2wvQ8QQ6h9zmsed6dMdcKmCc=
 		</data>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ctGUt5WG5kx5Csk/TBxcHkkupIU=
+		0lS+CvF3cq6mpk5RqAR2S+Vb0vY=
 		</data>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		cRgyhGU//q1nMAdTQyGquv4N3jA=
+		y4d2wvQ8QQ6h9zmsed6dMdcKmCc=
 		</data>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ESognRSGWFX7sJ66i0kBgzfMsds=
+		b+YT+bB1tOzT1FhA9VXckjIJYTQ=
 		</data>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JqSZO71OG/kLH5hkPeDThwpXnZY=
+		1+mK28b2UhA7zxhbXmzmdeFPTPw=
 		</data>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		1WR6ghSiCDB89wZpjG5aaIzBSD0=
+		Jg6u1e5QTeoZIHIrr8SnjYineb0=
 		</data>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		bdkRmnm7PDDYH9BCMV0hV66+CbE=
+		EEyC+LgZTOEAWfpE4iNLpKfurP8=
 		</data>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		1WR6ghSiCDB89wZpjG5aaIzBSD0=
+		Jg6u1e5QTeoZIHIrr8SnjYineb0=
 		</data>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gBinILarlWiqUwG+tliiVEFwaWI=
+		xxjqd0V7MJlQ2jwom+tWLxJltro=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Yfmy7w1egJt3/vpaPGnF45uMQKY=
+		xIbnBX+xO7KdC/zmA0vcf0HYB5M=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -103,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lDxprL3R37nd1cJjDc2z8VczpU5daiNHobgEi5jca24=
+			A8LuVQAwQWcKUz7MONAV1iwgPy5GKdLUfVJDoSMiJfI=
 			</data>
 		</dict>
 		<key>DTFL.storyboardc/CameraVC.nib</key>
@@ -111,6 +127,13 @@
 			<key>hash2</key>
 			<data>
 			0Iht99rATSooBE6NoJgifCa2FTH9pv2er/pu26+JYCw=
+			</data>
+		</dict>
+		<key>DTFL.storyboardc/CancelConfirmationDialog.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YtJtvjxlsVwX2xd4DrXD2IG89iuYIzPCZZm7adbOZc4=
 			</data>
 		</dict>
 		<key>DTFL.storyboardc/DTFLVC.nib</key>
@@ -124,28 +147,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jcoOovL0Cz/Vbt3Z3NH2/bFMfP9BbYT3Dtn/TZiQ2Q0=
+			YqUrV+WMJREIIoC3dUPg4y0uiSu7Z48OJNceDyhPRVw=
+			</data>
+		</dict>
+		<key>DTFL.storyboardc/RetryVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k8UytLKzVq9tbENrryAcbKtWYFuKtfjBe/3Aya7qOUE=
 			</data>
 		</dict>
 		<key>DTFL.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t0vhK6j/jMPz2q3qIcRk8JzPPfw/MveCHhZlS2Sn6qM=
+			vhaVBasAEhWIn1sUz8T7azchHGIwhGi0veoyD/nterE=
+			</data>
+		</dict>
+		<key>DTFL.storyboardc/cancel-dialog-vc-view-cancel-dialog-root.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eXrXt3UBh/+1bw7rZA4dFWpneYMBXbKMPx0YPDzppXE=
 			</data>
 		</dict>
 		<key>DTFL.storyboardc/qpS-Rh-oSW-view-f5M-w0-Auy.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			temeASINDMwv/O1bcRfowwcTZUCgkypJ76ox48ZIdZ4=
+			2wWrySH+riuCQWJNmftvP/Sblk8tZXOOwGngNOV8oac=
+			</data>
+		</dict>
+		<key>DTFL.storyboardc/xHJ-Mg-sJA-view-vXV-i9-eYz.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gsv+sc56UhlScmFigaU/MF1TR6g3CMeVCpuuirB2X1I=
 			</data>
 		</dict>
 		<key>Headers/DTFL-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9leXHrGjzj2ZX4gk8l5oKaWq+jR6wXAVCly8s9KIzxE=
+			qdd1ZUHg36Kg+yYBmih+nFM/l07UEUf4+4CLBZWeYMM=
 			</data>
 		</dict>
 		<key>Headers/DTFL.h</key>
@@ -180,77 +224,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JMYiHUoDT+h/4AhjXKhnHpzkRa1/aHUatsBUVwSRpgc=
+			z1h+Pjglm3vrGR4AdKJD/+n53YUv9cAmtlrBOH6pUtk=
 			</data>
 		</dict>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n5ylWY8N/N9VYt8TThkbnNGUjnTI30IFHMcFkf+HIdU=
+			jXdh7AoybQykFrVnpwC6pDkdNzugHSQhwJOUgcfu67o=
 			</data>
 		</dict>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C+G8yrPoXxCpFHCKGpAmhrjjwFoj/L9PDSRVkqOs/oU=
+			XW30D5jSZKS9Yy1jDrPSwBMs4/MPYTcL1Jmr7CBbCNc=
 			</data>
 		</dict>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n5ylWY8N/N9VYt8TThkbnNGUjnTI30IFHMcFkf+HIdU=
+			jXdh7AoybQykFrVnpwC6pDkdNzugHSQhwJOUgcfu67o=
 			</data>
 		</dict>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hNVnQuzXVVRq3HNS0/DHTUqjuiCpUJCjr6lxkOySQVw=
+			e6hXd1czcPW7wzYri9N3RKCNs8TDHOdgWs9szJ9nbyE=
 			</data>
 		</dict>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JMYiHUoDT+h/4AhjXKhnHpzkRa1/aHUatsBUVwSRpgc=
+			z1h+Pjglm3vrGR4AdKJD/+n53YUv9cAmtlrBOH6pUtk=
 			</data>
 		</dict>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pid/yZLW+bxtvBmsqgc8cNMR1InhdGO2i99lxZhUGuU=
+			KkFF/8As3IDBL/mad8eczEvlN7906L1YpQYdG5gguLQ=
 			</data>
 		</dict>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bWlz756NI2erXyY209IW5LExAT8zYxSzoW55X8/sHk0=
+			aawz9UD+zX64cQkscz9Q129rPhnbrcHlJcjsx3o4yxM=
 			</data>
 		</dict>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pid/yZLW+bxtvBmsqgc8cNMR1InhdGO2i99lxZhUGuU=
+			KkFF/8As3IDBL/mad8eczEvlN7906L1YpQYdG5gguLQ=
 			</data>
 		</dict>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lAyqwo16SYcJ/PICqJwkY5KmllXWTOdc6idZ4J8mKGY=
+			+5lTns58eP5MPmL1F3rhPyVyfO+egYfnzxScF9QO+pA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dgNKh42f+3jEhi5LsmAFHEsWTCY1F29WA2ORo/6GHvw=
+			ZnyT+1czP7jG3erS3mQNM02cpRooUn7ZRWcxKB0bQKE=
 			</data>
 		</dict>
 	</dict>
