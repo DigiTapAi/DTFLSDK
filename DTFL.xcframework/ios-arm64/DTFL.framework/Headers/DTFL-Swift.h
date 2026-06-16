@@ -390,6 +390,16 @@ SWIFT_CLASS("_TtC4DTFL17AccessibilityInfo")
 - (void)setLoadingCameraProgressDesc:(NSString * _Nonnull)loadingCameraProgressDesc;
 @end
 
+@class NSBundle;
+@class NSCoder;
+SWIFT_CLASS("_TtC4DTFL24CancelConfirmationDialog")
+@interface CancelConfirmationDialog : UIViewController
+- (void)viewDidLoad;
+- (void)viewDidAppear:(BOOL)animated;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
 typedef SWIFT_ENUM(NSInteger, DTEnvironment, open) {
   DTEnvironmentPRODUCTION = 0,
   DTEnvironmentUAT = 1,
@@ -413,8 +423,6 @@ SWIFT_CLASS("_TtC4DTFL7DTFLSDK")
 @end
 
 @class DTFaceConfig;
-@class NSBundle;
-@class NSCoder;
 SWIFT_CLASS("_TtC4DTFL6DTFLVC")
 @interface DTFLVC : UIViewController
 + (void)start:(UIViewController * _Nonnull)callingVC dtFaceConfig:(DTFaceConfig * _Nonnull)dtFaceConfig completionHandler:(void (^ _Nonnull)(DTException * _Nullable, NSDictionary<NSString *, id> * _Nullable))completionHandler;
