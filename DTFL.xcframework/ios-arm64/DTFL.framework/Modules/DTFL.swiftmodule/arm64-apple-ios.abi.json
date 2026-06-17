@@ -6377,7 +6377,7 @@
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/RetryVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 6145,
+      "offset": 5195,
       "length": 4,
       "value": "true"
     },
@@ -6986,896 +6986,896 @@
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 3717,
+      "offset": 3786,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 3803,
+      "offset": 3872,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4013,
+      "offset": 4082,
       "length": 9,
       "value": "\"iPod5,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4063,
+      "offset": 4132,
       "length": 14,
       "value": "\"iPod Touch 5\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4089,
+      "offset": 4158,
       "length": 9,
       "value": "\"iPod7,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4139,
+      "offset": 4208,
       "length": 14,
       "value": "\"iPod Touch 6\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4165,
+      "offset": 4234,
       "length": 11,
       "value": "\"iPhone3,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4178,
+      "offset": 4247,
       "length": 11,
       "value": "\"iPhone3,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4191,
+      "offset": 4260,
       "length": 11,
       "value": "\"iPhone3,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4215,
+      "offset": 4284,
       "length": 10,
       "value": "\"iPhone 4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4237,
+      "offset": 4306,
       "length": 11,
       "value": "\"iPhone4,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4287,
+      "offset": 4356,
       "length": 11,
       "value": "\"iPhone 4s\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4310,
+      "offset": 4379,
       "length": 11,
       "value": "\"iPhone5,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4323,
+      "offset": 4392,
       "length": 11,
       "value": "\"iPhone5,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4360,
+      "offset": 4429,
       "length": 10,
       "value": "\"iPhone 5\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4382,
+      "offset": 4451,
       "length": 11,
       "value": "\"iPhone5,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4395,
+      "offset": 4464,
       "length": 11,
       "value": "\"iPhone5,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4432,
+      "offset": 4501,
       "length": 11,
       "value": "\"iPhone 5c\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4455,
+      "offset": 4524,
       "length": 11,
       "value": "\"iPhone6,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4468,
+      "offset": 4537,
       "length": 11,
       "value": "\"iPhone6,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4505,
+      "offset": 4574,
       "length": 11,
       "value": "\"iPhone 5s\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4528,
+      "offset": 4597,
       "length": 11,
       "value": "\"iPhone7,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4578,
+      "offset": 4647,
       "length": 10,
       "value": "\"iPhone 6\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4600,
+      "offset": 4669,
       "length": 11,
       "value": "\"iPhone7,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4650,
+      "offset": 4719,
       "length": 15,
       "value": "\"iPhone 6 Plus\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4677,
+      "offset": 4746,
       "length": 11,
       "value": "\"iPhone8,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4727,
+      "offset": 4796,
       "length": 11,
       "value": "\"iPhone 6s\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4750,
+      "offset": 4819,
       "length": 11,
       "value": "\"iPhone8,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4800,
+      "offset": 4869,
       "length": 16,
       "value": "\"iPhone 6s Plus\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4828,
+      "offset": 4897,
       "length": 11,
       "value": "\"iPhone9,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4841,
+      "offset": 4910,
       "length": 11,
       "value": "\"iPhone9,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4878,
+      "offset": 4947,
       "length": 10,
       "value": "\"iPhone 7\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4900,
+      "offset": 4969,
       "length": 11,
       "value": "\"iPhone9,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4913,
+      "offset": 4982,
       "length": 11,
       "value": "\"iPhone9,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4950,
+      "offset": 5019,
       "length": 15,
       "value": "\"iPhone 7 Plus\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 4977,
+      "offset": 5046,
       "length": 11,
       "value": "\"iPhone8,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5027,
+      "offset": 5096,
       "length": 11,
       "value": "\"iPhone SE\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5050,
+      "offset": 5119,
       "length": 12,
       "value": "\"iPhone10,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5064,
+      "offset": 5133,
       "length": 12,
       "value": "\"iPhone10,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5100,
+      "offset": 5169,
       "length": 10,
       "value": "\"iPhone 8\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5122,
+      "offset": 5191,
       "length": 12,
       "value": "\"iPhone10,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5136,
+      "offset": 5205,
       "length": 12,
       "value": "\"iPhone10,5\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5172,
+      "offset": 5241,
       "length": 15,
       "value": "\"iPhone 8 Plus\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5199,
+      "offset": 5268,
       "length": 12,
       "value": "\"iPhone10,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5213,
+      "offset": 5282,
       "length": 12,
       "value": "\"iPhone10,6\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5249,
+      "offset": 5318,
       "length": 10,
       "value": "\"iPhone X\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5271,
+      "offset": 5340,
       "length": 12,
       "value": "\"iPhone11,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5321,
+      "offset": 5390,
       "length": 11,
       "value": "\"iPhone XS\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5344,
+      "offset": 5413,
       "length": 12,
       "value": "\"iPhone11,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5358,
+      "offset": 5427,
       "length": 12,
       "value": "\"iPhone11,6\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5394,
+      "offset": 5463,
       "length": 15,
       "value": "\"iPhone XS Max\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5421,
+      "offset": 5490,
       "length": 12,
       "value": "\"iPhone11,8\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5471,
+      "offset": 5540,
       "length": 11,
       "value": "\"iPhone XR\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5494,
+      "offset": 5563,
       "length": 9,
       "value": "\"iPad2,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5505,
+      "offset": 5574,
       "length": 9,
       "value": "\"iPad2,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5516,
+      "offset": 5585,
       "length": 9,
       "value": "\"iPad2,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5527,
+      "offset": 5596,
       "length": 9,
       "value": "\"iPad2,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5544,
+      "offset": 5613,
       "length": 8,
       "value": "\"iPad 2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5564,
+      "offset": 5633,
       "length": 9,
       "value": "\"iPad3,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5575,
+      "offset": 5644,
       "length": 9,
       "value": "\"iPad3,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5586,
+      "offset": 5655,
       "length": 9,
       "value": "\"iPad3,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5614,
+      "offset": 5683,
       "length": 8,
       "value": "\"iPad 3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5634,
+      "offset": 5703,
       "length": 9,
       "value": "\"iPad3,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5645,
+      "offset": 5714,
       "length": 9,
       "value": "\"iPad3,5\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5656,
+      "offset": 5725,
       "length": 9,
       "value": "\"iPad3,6\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5684,
+      "offset": 5753,
       "length": 8,
       "value": "\"iPad 4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5704,
+      "offset": 5773,
       "length": 9,
       "value": "\"iPad4,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5715,
+      "offset": 5784,
       "length": 9,
       "value": "\"iPad4,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5726,
+      "offset": 5795,
       "length": 9,
       "value": "\"iPad4,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5754,
+      "offset": 5823,
       "length": 10,
       "value": "\"iPad Air\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5776,
+      "offset": 5845,
       "length": 9,
       "value": "\"iPad5,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5787,
+      "offset": 5856,
       "length": 9,
       "value": "\"iPad5,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5826,
+      "offset": 5895,
       "length": 12,
       "value": "\"iPad Air 2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5850,
+      "offset": 5919,
       "length": 10,
       "value": "\"iPad6,11\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5862,
+      "offset": 5931,
       "length": 10,
       "value": "\"iPad6,12\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5900,
+      "offset": 5969,
       "length": 8,
       "value": "\"iPad 5\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5920,
+      "offset": 5989,
       "length": 9,
       "value": "\"iPad7,5\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5931,
+      "offset": 6000,
       "length": 9,
       "value": "\"iPad7,6\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5970,
+      "offset": 6039,
       "length": 8,
       "value": "\"iPad 6\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5990,
+      "offset": 6059,
       "length": 9,
       "value": "\"iPad2,5\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6001,
+      "offset": 6070,
       "length": 9,
       "value": "\"iPad2,6\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6012,
+      "offset": 6081,
       "length": 9,
       "value": "\"iPad2,7\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6040,
+      "offset": 6109,
       "length": 11,
       "value": "\"iPad Mini\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6063,
+      "offset": 6132,
       "length": 9,
       "value": "\"iPad4,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6074,
+      "offset": 6143,
       "length": 9,
       "value": "\"iPad4,5\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6085,
+      "offset": 6154,
       "length": 9,
       "value": "\"iPad4,6\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6113,
+      "offset": 6182,
       "length": 13,
       "value": "\"iPad Mini 2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6138,
+      "offset": 6207,
       "length": 9,
       "value": "\"iPad4,7\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6149,
+      "offset": 6218,
       "length": 9,
       "value": "\"iPad4,8\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6160,
+      "offset": 6229,
       "length": 9,
       "value": "\"iPad4,9\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6188,
+      "offset": 6257,
       "length": 13,
       "value": "\"iPad Mini 3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6213,
+      "offset": 6282,
       "length": 9,
       "value": "\"iPad5,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6224,
+      "offset": 6293,
       "length": 9,
       "value": "\"iPad5,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6263,
+      "offset": 6332,
       "length": 13,
       "value": "\"iPad Mini 4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6288,
+      "offset": 6357,
       "length": 9,
       "value": "\"iPad6,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6299,
+      "offset": 6368,
       "length": 9,
       "value": "\"iPad6,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6338,
+      "offset": 6407,
       "length": 21,
       "value": "\"iPad Pro (9.7-inch)\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6371,
+      "offset": 6440,
       "length": 9,
       "value": "\"iPad6,7\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6382,
+      "offset": 6451,
       "length": 9,
       "value": "\"iPad6,8\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6421,
+      "offset": 6490,
       "length": 22,
       "value": "\"iPad Pro (12.9-inch)\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6455,
+      "offset": 6524,
       "length": 9,
       "value": "\"iPad7,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6466,
+      "offset": 6535,
       "length": 9,
       "value": "\"iPad7,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6505,
+      "offset": 6574,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (2nd generation)\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6556,
+      "offset": 6625,
       "length": 9,
       "value": "\"iPad7,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6567,
+      "offset": 6636,
       "length": 9,
       "value": "\"iPad7,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6606,
+      "offset": 6675,
       "length": 22,
       "value": "\"iPad Pro (10.5-inch)\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6640,
+      "offset": 6709,
       "length": 9,
       "value": "\"iPad8,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6651,
+      "offset": 6720,
       "length": 9,
       "value": "\"iPad8,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6662,
+      "offset": 6731,
       "length": 9,
       "value": "\"iPad8,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6673,
+      "offset": 6742,
       "length": 9,
       "value": "\"iPad8,4\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6690,
+      "offset": 6759,
       "length": 20,
       "value": "\"iPad Pro (11-inch)\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6722,
+      "offset": 6791,
       "length": 9,
       "value": "\"iPad8,5\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6733,
+      "offset": 6802,
       "length": 9,
       "value": "\"iPad8,6\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6744,
+      "offset": 6813,
       "length": 9,
       "value": "\"iPad8,7\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6755,
+      "offset": 6824,
       "length": 9,
       "value": "\"iPad8,8\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6772,
+      "offset": 6841,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (3rd generation)\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6823,
+      "offset": 6892,
       "length": 12,
       "value": "\"AppleTV5,3\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6873,
+      "offset": 6942,
       "length": 10,
       "value": "\"Apple TV\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6895,
+      "offset": 6964,
       "length": 12,
       "value": "\"AppleTV6,2\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6945,
+      "offset": 7014,
       "length": 13,
       "value": "\"Apple TV 4K\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6970,
+      "offset": 7039,
       "length": 19,
       "value": "\"AudioAccessory1,1\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7020,
+      "offset": 7089,
       "length": 9,
       "value": "\"HomePod\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7041,
+      "offset": 7110,
       "length": 6,
       "value": "\"i386\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7049,
+      "offset": 7118,
       "length": 8,
       "value": "\"x86_64\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7091,
+      "offset": 7160,
       "length": 104,
       "value": "\"Simulator \""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7154,
+      "offset": 7223,
       "length": 28,
       "value": "\"SIMULATOR_MODEL_IDENTIFIER\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7187,
+      "offset": 7256,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Utils\/CommonUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7194,
+      "offset": 7263,
       "length": 1,
       "value": "\"\""
     },
