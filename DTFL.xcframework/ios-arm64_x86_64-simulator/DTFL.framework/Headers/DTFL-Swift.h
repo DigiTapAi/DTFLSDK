@@ -382,8 +382,10 @@ SWIFT_CLASS("_TtC4DTFL17AccessibilityInfo")
 - (void)setConfigAccessibilityEnabled:(BOOL)configAccessibilityEnabled;
 - (NSString * _Nullable)getCancelVerificationButtonDesc SWIFT_WARN_UNUSED_RESULT;
 - (void)setCancelVerificationButtonDesc:(NSString * _Nonnull)cancelVerificationButtonDesc;
-- (NSString * _Nullable)getCaptureButtonDesc SWIFT_WARN_UNUSED_RESULT;
-- (void)setCaptureButtonDesc:(NSString * _Nonnull)captureButtonDesc;
+- (NSString * _Nullable)getCaptureButtonActiveDesc SWIFT_WARN_UNUSED_RESULT;
+- (void)setCaptureButtonActiveDesc:(NSString * _Nonnull)captureButtonActiveDesc;
+- (NSString * _Nullable)getCaptureButtonInactiveDesc SWIFT_WARN_UNUSED_RESULT;
+- (void)setCaptureButtonInactiveDesc:(NSString * _Nonnull)captureButtonInactiveDesc;
 - (NSString * _Nullable)getCameraPreviewDesc SWIFT_WARN_UNUSED_RESULT;
 - (void)setCameraPreviewDesc:(NSString * _Nonnull)cameraPreviewDesc;
 - (NSString * _Nullable)getLoadingCameraProgressDesc SWIFT_WARN_UNUSED_RESULT;
@@ -859,8 +861,10 @@ SWIFT_CLASS("_TtC4DTFL17AccessibilityInfo")
 - (void)setConfigAccessibilityEnabled:(BOOL)configAccessibilityEnabled;
 - (NSString * _Nullable)getCancelVerificationButtonDesc SWIFT_WARN_UNUSED_RESULT;
 - (void)setCancelVerificationButtonDesc:(NSString * _Nonnull)cancelVerificationButtonDesc;
-- (NSString * _Nullable)getCaptureButtonDesc SWIFT_WARN_UNUSED_RESULT;
-- (void)setCaptureButtonDesc:(NSString * _Nonnull)captureButtonDesc;
+- (NSString * _Nullable)getCaptureButtonActiveDesc SWIFT_WARN_UNUSED_RESULT;
+- (void)setCaptureButtonActiveDesc:(NSString * _Nonnull)captureButtonActiveDesc;
+- (NSString * _Nullable)getCaptureButtonInactiveDesc SWIFT_WARN_UNUSED_RESULT;
+- (void)setCaptureButtonInactiveDesc:(NSString * _Nonnull)captureButtonInactiveDesc;
 - (NSString * _Nullable)getCameraPreviewDesc SWIFT_WARN_UNUSED_RESULT;
 - (void)setCameraPreviewDesc:(NSString * _Nonnull)cameraPreviewDesc;
 - (NSString * _Nullable)getLoadingCameraProgressDesc SWIFT_WARN_UNUSED_RESULT;

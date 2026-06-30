@@ -5002,8 +5002,8 @@
           },
           {
             "kind": "Function",
-            "name": "getCaptureButtonDesc",
-            "printedName": "getCaptureButtonDesc()",
+            "name": "getCaptureButtonActiveDesc",
+            "printedName": "getCaptureButtonActiveDesc()",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -5021,8 +5021,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@DTFL@objc(cs)AccessibilityInfo(im)getCaptureButtonDesc",
-            "mangledName": "$s4DTFL17AccessibilityInfoC20getCaptureButtonDescSSSgyF",
+            "usr": "c:@M@DTFL@objc(cs)AccessibilityInfo(im)getCaptureButtonActiveDesc",
+            "mangledName": "$s4DTFL17AccessibilityInfoC26getCaptureButtonActiveDescSSSgyF",
             "moduleName": "DTFL",
             "declAttributes": [
               "AccessControl",
@@ -5032,8 +5032,8 @@
           },
           {
             "kind": "Function",
-            "name": "setCaptureButtonDesc",
-            "printedName": "setCaptureButtonDesc(_:)",
+            "name": "setCaptureButtonActiveDesc",
+            "printedName": "setCaptureButtonActiveDesc(_:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -5048,8 +5048,65 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@DTFL@objc(cs)AccessibilityInfo(im)setCaptureButtonDesc:",
-            "mangledName": "$s4DTFL17AccessibilityInfoC20setCaptureButtonDescyySSF",
+            "usr": "c:@M@DTFL@objc(cs)AccessibilityInfo(im)setCaptureButtonActiveDesc:",
+            "mangledName": "$s4DTFL17AccessibilityInfoC26setCaptureButtonActiveDescyySSF",
+            "moduleName": "DTFL",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getCaptureButtonInactiveDesc",
+            "printedName": "getCaptureButtonInactiveDesc()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@DTFL@objc(cs)AccessibilityInfo(im)getCaptureButtonInactiveDesc",
+            "mangledName": "$s4DTFL17AccessibilityInfoC28getCaptureButtonInactiveDescSSSgyF",
+            "moduleName": "DTFL",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setCaptureButtonInactiveDesc",
+            "printedName": "setCaptureButtonInactiveDesc(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@DTFL@objc(cs)AccessibilityInfo(im)setCaptureButtonInactiveDesc:",
+            "mangledName": "$s4DTFL17AccessibilityInfoC28setCaptureButtonInactiveDescyySSF",
             "moduleName": "DTFL",
             "declAttributes": [
               "AccessControl",
@@ -6475,14 +6532,14 @@
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/CameraVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 18833,
+      "offset": 18917,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Controller\/CameraVC.swift",
       "kind": "FloatLiteral",
-      "offset": 24126,
+      "offset": 25228,
       "length": 3,
       "value": "1.0"
     },
@@ -6923,56 +6980,70 @@
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 4283,
+      "offset": 4300,
+      "length": 13,
+      "value": "\"Capture Now\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 4373,
+      "length": 13,
+      "value": "\"Capture Now\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 4427,
       "length": 20,
       "value": "\"Powered by Digitap\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 4351,
+      "offset": 4495,
       "length": 30,
       "value": "\"DT_CONFIG_ACCESSIBILITY_INFO\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "StringLiteral",
-      "offset": 4432,
+      "offset": 4576,
       "length": 33,
       "value": "\"DT_CONFIG_ACCESSIBILITY_ENABLED\""
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 4559,
+      "offset": 4703,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 4611,
+      "offset": 4755,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 4785,
+      "offset": 4929,
       "length": 3,
       "value": "1"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 4798,
+      "offset": 4942,
       "length": 5,
       "value": "2"
     },
     {
       "filePath": "\/Users\/saikiran\/Documents\/Products\/FL\/IOS\/FL-IOS-SDK\/DTFL\/DTFL\/Constant\/Constant.swift",
       "kind": "IntegerLiteral",
-      "offset": 4813,
+      "offset": 4957,
       "length": 3,
       "value": "3"
     },

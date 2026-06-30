@@ -152,8 +152,10 @@ public protocol FaceDetectionListener : AnyObject {
   @objc public func setConfigAccessibilityEnabled(_ configAccessibilityEnabled: Swift.Bool)
   @objc public func getCancelVerificationButtonDesc() -> Swift.String?
   @objc public func setCancelVerificationButtonDesc(_ cancelVerificationButtonDesc: Swift.String)
-  @objc public func getCaptureButtonDesc() -> Swift.String?
-  @objc public func setCaptureButtonDesc(_ captureButtonDesc: Swift.String)
+  @objc public func getCaptureButtonActiveDesc() -> Swift.String?
+  @objc public func setCaptureButtonActiveDesc(_ captureButtonActiveDesc: Swift.String)
+  @objc public func getCaptureButtonInactiveDesc() -> Swift.String?
+  @objc public func setCaptureButtonInactiveDesc(_ captureButtonInactiveDesc: Swift.String)
   @objc public func getCameraPreviewDesc() -> Swift.String?
   @objc public func setCameraPreviewDesc(_ cameraPreviewDesc: Swift.String)
   @objc public func getLoadingCameraProgressDesc() -> Swift.String?
