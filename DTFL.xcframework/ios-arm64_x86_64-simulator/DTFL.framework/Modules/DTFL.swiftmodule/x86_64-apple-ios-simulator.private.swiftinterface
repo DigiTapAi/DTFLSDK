@@ -21,7 +21,7 @@ import _SwiftConcurrencyShims
   @objc deinit
 }
 public enum ErrorCode : Swift.Int {
-  case INVALID_INPUT, INIT_NOT_CALLED, USER_CANCELLED, INTERNAL_ERROR, PERMISSION_NOT_GRANTED, SERVER_ERROR, CAPTURE_FAILED, CAMERA_LAUNCH_FAILED, GET_CAMERA_INFO_FAILED, FACE_NOT_DETECTED_USER_CANCELLED, EYES_CLOSED, MULTIPLE_FACE, BLUR_FACE, FACE_MASK, NON_ALIGNED_FACE, LOW_LIGHT_IMAGE, CAMERA_NOT_FOUND, OCCLUDED_FACE
+  case INVALID_INPUT, INIT_NOT_CALLED, USER_CANCELLED, INTERNAL_ERROR, PERMISSION_NOT_GRANTED, SERVER_ERROR, CAPTURE_FAILED, CAMERA_LAUNCH_FAILED, GET_CAMERA_INFO_FAILED, FACE_NOT_DETECTED_USER_CANCELLED, EYES_CLOSED, MULTIPLE_FACE, BLUR_FACE, FACE_MASK, NON_ALIGNED_FACE, LOW_LIGHT_IMAGE, CAMERA_NOT_FOUND, OCCLUDED_FACE, AI_GENERATED_FACE
   public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
@@ -47,6 +47,7 @@ public enum ErrorMessage : Swift.String {
   case LOW_LIGHT_IMAGE
   case CAMERA_NOT_FOUND
   case OCCLUDED_FACE
+  case AI_GENERATED_FACE
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -68,6 +69,7 @@ public enum ErrorMessage : Swift.String {
   public func setCaptureRetryCount(count: Swift.Int)
   public func setCaptureRetryCodes(codes: [Swift.String])
   public func setCancelConfirmation(value: Swift.Int)
+  public func setCaptureConfigLog(value: Swift.Int)
   @objc deinit
   open func encode(to encoder: any Swift.Encoder) throws
   required public init(from decoder: any Swift.Decoder) throws
@@ -114,10 +116,13 @@ public protocol FaceDetectionListener : AnyObject {
   @objc public func setAllowOccludedFace(_ allow: Swift.String)
   @objc public func setAllowNonAlignedFace(_ allow: Swift.String)
   @objc public func setAllowLowLightImage(_ allow: Swift.String)
+  @objc public func setAllowAIGeneratedFace(_ allow: Swift.String)
+  @objc public func setRunDeepFake(_ allow: Swift.String?)
   @objc public func setResponseInError(_ allow: Swift.String)
   @objc public func setCaptureRetryEnabled(_ enabled: Swift.Bool)
   @objc public func setAccessibilityInfo(_ accessibilityInfo: DTFL.AccessibilityInfo)
   @objc public func setCancelConfirmationDialog(_ enabled: Swift.Bool)
+  @objc public func setCaptureConfigLog(_ captureConfigLog: Swift.Bool)
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc public class DTFLSDK : ObjectiveC.NSObject {
@@ -150,6 +155,7 @@ public protocol FaceDetectionListener : AnyObject {
   @objc public func setSystemAccessibilityEnabled(_ systemAccessibilityEnabled: Swift.Bool)
   @objc public func isConfigAccessibilityEnabled() -> Swift.Bool
   @objc public func setConfigAccessibilityEnabled(_ configAccessibilityEnabled: Swift.Bool)
+  @objc public func isAccessibilityEnabled() -> Swift.Bool
   @objc public func getCancelVerificationButtonDesc() -> Swift.String?
   @objc public func setCancelVerificationButtonDesc(_ cancelVerificationButtonDesc: Swift.String)
   @objc public func getCaptureButtonActiveDesc() -> Swift.String?

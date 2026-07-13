@@ -380,6 +380,7 @@ SWIFT_CLASS("_TtC4DTFL17AccessibilityInfo")
 - (void)setSystemAccessibilityEnabled:(BOOL)systemAccessibilityEnabled;
 - (BOOL)isConfigAccessibilityEnabled SWIFT_WARN_UNUSED_RESULT;
 - (void)setConfigAccessibilityEnabled:(BOOL)configAccessibilityEnabled;
+- (BOOL)isAccessibilityEnabled SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)getCancelVerificationButtonDesc SWIFT_WARN_UNUSED_RESULT;
 - (void)setCancelVerificationButtonDesc:(NSString * _Nonnull)cancelVerificationButtonDesc;
 - (NSString * _Nullable)getCaptureButtonActiveDesc SWIFT_WARN_UNUSED_RESULT;
@@ -463,10 +464,13 @@ SWIFT_CLASS("_TtC4DTFL12DTFaceConfig")
 - (void)setAllowOccludedFace:(NSString * _Nonnull)allow;
 - (void)setAllowNonAlignedFace:(NSString * _Nonnull)allow;
 - (void)setAllowLowLightImage:(NSString * _Nonnull)allow;
+- (void)setAllowAIGeneratedFace:(NSString * _Nonnull)allow;
+- (void)setRunDeepFake:(NSString * _Nullable)allow;
 - (void)setResponseInError:(NSString * _Nonnull)allow;
 - (void)setCaptureRetryEnabled:(BOOL)enabled;
 - (void)setAccessibilityInfo:(AccessibilityInfo * _Nonnull)accessibilityInfo;
 - (void)setCancelConfirmationDialog:(BOOL)enabled;
+- (void)setCaptureConfigLog:(BOOL)captureConfigLog;
 @end
 
 #endif // defined(__OBJC__)
@@ -859,6 +863,7 @@ SWIFT_CLASS("_TtC4DTFL17AccessibilityInfo")
 - (void)setSystemAccessibilityEnabled:(BOOL)systemAccessibilityEnabled;
 - (BOOL)isConfigAccessibilityEnabled SWIFT_WARN_UNUSED_RESULT;
 - (void)setConfigAccessibilityEnabled:(BOOL)configAccessibilityEnabled;
+- (BOOL)isAccessibilityEnabled SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)getCancelVerificationButtonDesc SWIFT_WARN_UNUSED_RESULT;
 - (void)setCancelVerificationButtonDesc:(NSString * _Nonnull)cancelVerificationButtonDesc;
 - (NSString * _Nullable)getCaptureButtonActiveDesc SWIFT_WARN_UNUSED_RESULT;
@@ -942,10 +947,13 @@ SWIFT_CLASS("_TtC4DTFL12DTFaceConfig")
 - (void)setAllowOccludedFace:(NSString * _Nonnull)allow;
 - (void)setAllowNonAlignedFace:(NSString * _Nonnull)allow;
 - (void)setAllowLowLightImage:(NSString * _Nonnull)allow;
+- (void)setAllowAIGeneratedFace:(NSString * _Nonnull)allow;
+- (void)setRunDeepFake:(NSString * _Nullable)allow;
 - (void)setResponseInError:(NSString * _Nonnull)allow;
 - (void)setCaptureRetryEnabled:(BOOL)enabled;
 - (void)setAccessibilityInfo:(AccessibilityInfo * _Nonnull)accessibilityInfo;
 - (void)setCancelConfirmationDialog:(BOOL)enabled;
+- (void)setCaptureConfigLog:(BOOL)captureConfigLog;
 @end
 
 #endif // defined(__OBJC__)
