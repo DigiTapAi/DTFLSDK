@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		3BLLYRclaeRa2QdAxwmBzTCWHrk=
+		oAe0c5aMDoXCz3UFnXO1fuHNkv0=
 		</data>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		3BLLYRclaeRa2QdAxwmBzTCWHrk=
+		oAe0c5aMDoXCz3UFnXO1fuHNkv0=
 		</data>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -224,7 +224,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pP+yNJIgPefZ9fy1oV4B3FyhzT0bKdSell2KXYpAd30=
+			RS75o8PwnfVHYBqcLQzYT8ghM3zKHypqUjGNxhADXkQ=
 			</data>
 		</dict>
 		<key>Modules/DTFL.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -259,7 +259,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pP+yNJIgPefZ9fy1oV4B3FyhzT0bKdSell2KXYpAd30=
+			RS75o8PwnfVHYBqcLQzYT8ghM3zKHypqUjGNxhADXkQ=
 			</data>
 		</dict>
 		<key>Modules/DTFL.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
